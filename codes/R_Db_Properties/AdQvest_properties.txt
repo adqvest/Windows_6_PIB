@@ -1,4 +1,0 @@
-Env Detail
-Host Serv!ce4Altern:NewCh32%Cr@ohiotomumbai.cnfgszrwissj.ap-south-1.rds.amazonaws.com
-port 3306
-DBname AdqvestDB
