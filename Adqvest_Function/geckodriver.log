@@ -1,0 +1,24 @@
+1719311678328	geckodriver	INFO	Listening on 127.0.0.1:58123
+1719311680392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileb6dv0s"
+1719311716321	geckodriver	INFO	Listening on 127.0.0.1:58198
+1719311718339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileG8OozJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719311719001	Marionette	INFO	Marionette enabled
+1719311719243	Marionette	INFO	Listening on port 58214
+WebDriver BiDi listening on ws://127.0.0.1:58199
+Read port: 58214
+1719311719624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58199/devtools/browser/41686f79-2999-47a1-89ed-2c9b98731f86
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 4172: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 4189: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/Wznh2U2MwzKrHJzgrw/L11V4Q6zSXr1Vi/CzVVcTw7PwU/U2gSV/EgNNEQ, line 1: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/Wznh2U2MwzKrHJzgrw/L11V4Q6zSXr1Vi/CzVVcTw7PwU/U2gSV/EgNNEQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nseindia.com/Wznh2U2MwzKrHJzgrw/L11V4Q6zSXr1Vi/CzVVcTw7PwU/U2gSV/EgNNEQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nseindia.com/Wznh2U2MwzKrHJzgrw/L11V4Q6zSXr1Vi/CzVVcTw7PwU/U2gSV/EgNNEQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+1719311749024	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

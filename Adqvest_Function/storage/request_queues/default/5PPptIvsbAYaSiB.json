@@ -1,0 +1,23 @@
+{
+  "id": "5PPptIvsbAYaSiB",
+  "unique_key": "https://www.canararobeco.com/documents/forms-downloads/forms-information-documents/information-documents/factsheets",
+  "order_no": null,
+  "handled_at": "2025-10-28 05:27:35.515751+00:00",
+  "request": {
+    "url": "https://www.canararobeco.com/documents/forms-downloads/forms-information-documents/information-documents/factsheets/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-10-28 05:27:35.515751+00:00",
+    "unique_key": "https://www.canararobeco.com/documents/forms-downloads/forms-information-documents/information-documents/factsheets",
+    "id": "5PPptIvsbAYaSiB"
+  }
+}

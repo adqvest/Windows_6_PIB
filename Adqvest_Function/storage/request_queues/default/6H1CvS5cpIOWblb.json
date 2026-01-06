@@ -1,0 +1,23 @@
+{
+  "id": "6H1CvS5cpIOWblb",
+  "unique_key": "https://simoncarter.abfrl.in/storelocator",
+  "order_no": null,
+  "handled_at": "2025-12-09 04:49:20.701108+00:00",
+  "request": {
+    "url": "https://simoncarter.abfrl.in/storelocator",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://simoncarter.abfrl.in/storelocator",
+    "handled_at": "2025-12-09 04:49:20.701108+00:00",
+    "unique_key": "https://simoncarter.abfrl.in/storelocator",
+    "id": "6H1CvS5cpIOWblb"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6IiVI2LoJZnqjaa",
+  "unique_key": "https://www.bajajamc.com/downloads",
+  "order_no": "1761629256645.209000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.bajajamc.com/downloads",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {},
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.bajajamc.com/downloads",
+    "id": "6IiVI2LoJZnqjaa"
+  }
+}

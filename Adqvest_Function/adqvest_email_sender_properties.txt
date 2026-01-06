@@ -1,0 +1,5 @@
+Item Credential Comments
+TENANT_ID 2947f21e-df6e-4724-88dd-62dfdd31fce3  #_AzureAD_tenant_ID
+CLIENT_ID e79020a9-e7b8-44a2-8e29-766bfa1b4ab8  #_Application_(client)_ID
+CLIENT_SECRET pk28Q~0iw.At_YzaVrNtLgsNtUPOE.3I2STWwbEG  #_Client_secret
+SENDER_EMAIL insights@thurro.com  #_The_email_address_that_will_send_emails

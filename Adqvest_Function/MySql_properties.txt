@@ -1,0 +1,7 @@
+Env Detail
+Host ohiotomumbai.cnfgszrwissj.ap-south-1.rds.amazonaws.com
+Port 9000
+DB_Name AdqvestDB
+User_Name Serv!ce4Altern
+Password_String Gfs9$PgD7gu
+
