@@ -1,0 +1,4 @@
+Env Detail
+Host AdqServiceAct:AdServ!ce%2@amazondbmumbai.cnfgszrwissj.ap-south-1.rds.amazonaws.com
+port 3306
+DBname AmazonDB

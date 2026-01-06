@@ -1,0 +1,890 @@
+{
+  "current_strategy": null,
+  "current_state": null,
+  "current_city": null,
+  "current_locality": "Khalapur",
+  "current_pincode": null,
+  "current_sub_brand": null,
+  "states_completed": [],
+  "states_fully_completed": [
+    "Assam",
+    "Bihar",
+    "Chandigarh",
+    "Chhattisgarh",
+    "Delhi",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "Himachal Pradesh",
+    "Jammu And Kashmir",
+    "Jharkhand",
+    "Madhya Pradesh"
+  ],
+  "locality_fully_completed": [
+    "Mangaldoi",
+    "Bhetapara Road",
+    "Khanapara",
+    "Datalpara",
+    "Khutikotia",
+    "AT Road",
+    "Sonai Road",
+    "Doom Dooma",
+    "Bhojpur",
+    "MG Road",
+    "NH 31",
+    "Hanuman Nagar",
+    "Saran",
+    "Maharani Pokhar",
+    "Sunderpur",
+    "Gaya Dhobhi Road",
+    "Satgama",
+    "Mojheli",
+    "Motihari",
+    "Bhagwanpur Chowk",
+    "Khabra",
+    "Tilak Maidan Road",
+    "Bailey Road",
+    "Rani Pur Paijawa",
+    "Saguna More",
+    "Sampatchak",
+    "Maranga Chowk",
+    "Mohanpur",
+    "Mahpur",
+    "Karjain Road",
+    "Harinagar",
+    "Manimajra",
+    "Kharsiya Naka Square",
+    "Sirgitti, Sector C",
+    "GE Road",
+    "Adawal",
+    "Baradwar Road",
+    "TP Nagar",
+    "Dhimrapur Chowk",
+    "Raigarh Road",
+    "KK Road",
+    "Badarpur",
+    "Burari",
+    "Chittaranjan Park",
+    "Dakshinpuri Extension",
+    "Dashratpuri",
+    "Kanjhawala",
+    "Kanti Nagar",
+    "Kotla Mubarakpur",
+    "Najafgarh",
+    "Nangloi",
+    "Narela",
+    "Pandav Nagar",
+    "Patpargang",
+    "Sant Nagar",
+    "Sector 16, Rohini",
+    "Shakti Nagar",
+    "Shalimar Bagh",
+    "Uttam Nagar",
+    "Vasant Kunj",
+    "West Patel Nagar",
+    "Karaswada",
+    "Muslim Wada",
+    "Tiswadi",
+    "Dabolim",
+    "Chandkheda",
+    "Gota",
+    "Juna Vadaj",
+    "Maninagar",
+    "Motera",
+    "Naroda",
+    "Nigam Nagar",
+    "Nikol",
+    "Odhav",
+    "Sarkhej",
+    "Sola",
+    "South Bopal",
+    "Viramgam",
+    "Lathi Road",
+    "Sardar Ganj",
+    "Tharad",
+    "Abc Circle",
+    "Dehgram",
+    "Kalol",
+    "Khoraj",
+    "Kudasan",
+    "Motipura Circle",
+    "Ambaji Highway Road",
+    "KV Road",
+    "Mundra",
+    "Highway Road",
+    "Dhoraji",
+    "Morbi Road",
+    "LP Savani Road",
+    "Morabhagal",
+    "Pal Gam",
+    "Varachha",
+    "Varachha Road",
+    "Limdi",
+    "Gotri Main Road",
+    "Kalali",
+    "Sama Savli Road",
+    "Uma Nagar",
+    "GIDC",
+    "Morarji Circle",
+    "G T Road",
+    "Mathura Road",
+    "Sector 86",
+    "Sector 4",
+    "Sector 62",
+    "Sector 94",
+    "Old GT Road",
+    "Safidon Road",
+    "Model Town",
+    "Hansi Road",
+    "Agrasen Chowk",
+    "Railway Road",
+    "Kalka",
+    "Delhi Road",
+    "Subhash Nagar",
+    "Arya Samaj Road,",
+    "Ganaur",
+    "Shivaji Market",
+    "Chowki Wal",
+    "Deonghat",
+    "Chadoora",
+    "Mirgund",
+    "Akhloor Road",
+    "Samba",
+    "Batamaloo",
+    "Batmaloo",
+    "Bokaro Steel City",
+    "Jaina",
+    "Transport Nagar",
+    "Tandwa",
+    "Boro",
+    "Bajrangi Chowk",
+    "Pugmill",
+    "Sakchi",
+    "Ramgarh Cantt",
+    "Hazaribagh Road",
+    "Jain Temple Road",
+    "Kathitanr",
+    "Kokar Chowk",
+    "Neori",
+    "Pandra",
+    "Chaibasa",
+    "Ganj",
+    "Kohefiza",
+    "Kolar Road",
+    "Mali Market",
+    "MP Nagar",
+    "North PP Nagar",
+    "Padmnadh Nagar",
+    "Roshanpura",
+    "Nowgong Road",
+    "Lal Bagh Collage Road",
+    "Civil Ward",
+    "Lohar Pipliya",
+    "Bakhtawar Marg",
+    "Roshanighar Road",
+    "Dwarika Puri Main Road",
+    "Greater Brajeshwari",
+    "Kanadia Main Road",
+    "Mechanic Nagar",
+    "Rau",
+    "RNT Marg",
+    "Sector A",
+    "Snehnagar",
+    "Baldev Bagh",
+    "Mahanadda",
+    "Mittal Nagar",
+    "Padawa",
+    "Sitamau Road",
+    "Pipripura",
+    "Nagda",
+    "Pipap Mohalla",
+    "Khilchipur",
+    "Gol Park",
+    "Saman Tiraha",
+    "Bhagwan Ganj",
+    "Jeevan Jyoti Colony",
+    "Nagpur Road",
+    "Khalesar Naka",
+    "Kachani",
+    "Savedi",
+    "Ramdaspeth",
+    "Pimpalbhat",
+    "Irwin Chowk",
+    "Jalna Road",
+    "Sambhaji Nagar",
+    "Lakhmapur",
+    "Sales Tax Colony",
+    "Mahaveer Mard",
+    "Aurangabad Choufully",
+    "Malkapur",
+    "Station Road",
+    "Ring Road",
+    "Andheri East",
+    "Ghatkopar West",
+    "Jogeshwari East",
+    "Pestom Sagar",
+    "Anant Nagar",
+    "Jaripatka",
+    "Karve Nagar",
+    "Medical Square",
+    "Sadar Bazar",
+    "Wadi",
+    "Wanadongri",
+    "Hingoli Road",
+    "Dwarka",
+    "Igatpuri",
+    "New Adgaon Naka",
+    "Satana",
+    "Kamothe, Sector 20",
+    "Kharghar, Sector 3",
+    "Sector 11",
+    "Balaji Nagar",
+    "Chinchwad",
+    "Dattawadi Nere",
+    "Hadapsar",
+    "Handewadi",
+    "Karvenagar",
+    "Nimbalkar Nagar",
+    "Pune Nagar Road",
+    "Rahatani",
+    "Ravet",
+    "Shel Pimpalgaon",
+    "Talegaon Dabhade",
+    "Tilekar Nagar"
+  ],
+  "cities_completed": {},
+  "cities_fully_completed": [
+    "Darrang",
+    "Guwahati",
+    "Kamrup",
+    "Nagaon",
+    "Sivasagar",
+    "Silchar",
+    "Tinsukia",
+    "Arrah",
+    "Aurangabad",
+    "Begusarai",
+    "Biharsharif",
+    "Chhapra",
+    "Darbhanga",
+    "Gaya",
+    "Jamui",
+    "Katihar",
+    "Motihari",
+    "Muzaffarpur",
+    "Patna",
+    "Purnia",
+    "Samastipur",
+    "Siwan",
+    "Supaul",
+    "West Champaran",
+    "Chandigarh",
+    "Ambikapur",
+    "Bilaspur",
+    "Durg",
+    "Jagdalpur",
+    "Janjgir-champa",
+    "Korba",
+    "Raigarh",
+    "Raipur",
+    "New Delhi",
+    "North Goa",
+    "South Goa",
+    "Ahmedabad",
+    "Amreli",
+    "Anand",
+    "Banaskantha",
+    "Bharuch",
+    "Gandhinagar",
+    "Himmatnagar",
+    "Idar",
+    "Jamnagar",
+    "Kachchh",
+    "Kadi",
+    "Rajkot",
+    "Surat",
+    "Surendranagar",
+    "Vadodara",
+    "Vapi",
+    "Ambala",
+    "Faridabad",
+    "Gurugram",
+    "Hodal",
+    "Jind",
+    "Kaithal",
+    "Karnal",
+    "Narnaul",
+    "Palwal",
+    "Panchkula",
+    "Rewari",
+    "Rohtak",
+    "Sirsa",
+    "Sonipat",
+    "Yamuna Nagar",
+    "Baddi",
+    "Solan",
+    "Budgam",
+    "Jammu",
+    "Srinagar",
+    "Bokaro",
+    "East Singhbhum",
+    "Garhwa",
+    "Giridih",
+    "Hazaribagh",
+    "Jamshedpur",
+    "Ramgarh",
+    "Ranchi",
+    "West Singhbhum",
+    "Betul",
+    "Bhopal",
+    "Chhatarpur",
+    "Chhindwara",
+    "Damoh",
+    "Dewas",
+    "Dhar",
+    "Gwalior",
+    "Indore",
+    "Jabalpur",
+    "Katni",
+    "Khandwa",
+    "Mandsaur",
+    "Morena",
+    "Nagda",
+    "Narmadapuram",
+    "Rajgarh",
+    "Rewa",
+    "Sagar",
+    "Satna",
+    "Seoni",
+    "Singrauli",
+    "Umaria",
+    "Waidhan",
+    "Ahmednagar",
+    "Akola",
+    "Alibag",
+    "Amravati",
+    "Beed",
+    "Chandrapur",
+    "Gondia",
+    "Jalgaon",
+    "Jalna",
+    "Karad",
+    "Kolhapur",
+    "Latur",
+    "Mumbai",
+    "Nagpur",
+    "Nanded",
+    "Nashik",
+    "Navi Mumbai",
+    "Pune"
+  ],
+  "localities_completed": {
+    "Assam": {
+      "Darrang": [
+        "Mangaldoi"
+      ],
+      "Guwahati": [
+        "Bhetapara Road",
+        "Khanapara"
+      ],
+      "Kamrup": [
+        "Datalpara"
+      ],
+      "Nagaon": [
+        "Khutikotia"
+      ],
+      "Sivasagar": [
+        "AT Road"
+      ],
+      "Silchar": [
+        "Sonai Road"
+      ],
+      "Tinsukia": [
+        "Doom Dooma"
+      ]
+    },
+    "Bihar": {
+      "Arrah": [
+        "Bhojpur"
+      ],
+      "Aurangabad": [
+        "MG Road"
+      ],
+      "Begusarai": [
+        "NH 31"
+      ],
+      "Biharsharif": [
+        "Hanuman Nagar"
+      ],
+      "Chhapra": [
+        "Saran"
+      ],
+      "Darbhanga": [
+        "Maharani Pokhar",
+        "Sunderpur"
+      ],
+      "Gaya": [
+        "Gaya Dhobhi Road"
+      ],
+      "Jamui": [
+        "Satgama"
+      ],
+      "Katihar": [
+        "Mojheli"
+      ],
+      "Motihari": [
+        "Motihari"
+      ],
+      "Muzaffarpur": [
+        "Bhagwanpur Chowk",
+        "Khabra",
+        "Tilak Maidan Road"
+      ],
+      "Patna": [
+        "Bailey Road",
+        "Rani Pur Paijawa",
+        "Saguna More",
+        "Sampatchak"
+      ],
+      "Purnia": [
+        "Maranga Chowk"
+      ],
+      "Samastipur": [
+        "Mohanpur"
+      ],
+      "Siwan": [
+        "Mahpur"
+      ],
+      "Supaul": [
+        "Karjain Road"
+      ],
+      "West Champaran": [
+        "Harinagar"
+      ]
+    },
+    "Chandigarh": {
+      "Chandigarh": [
+        "Manimajra"
+      ]
+    },
+    "Chhattisgarh": {
+      "Ambikapur": [
+        "Kharsiya Naka Square"
+      ],
+      "Bilaspur": [
+        "Sirgitti, Sector C"
+      ],
+      "Durg": [
+        "GE Road"
+      ],
+      "Jagdalpur": [
+        "Adawal"
+      ],
+      "Janjgir-champa": [
+        "Baradwar Road"
+      ],
+      "Korba": [
+        "TP Nagar"
+      ],
+      "Raigarh": [
+        "Dhimrapur Chowk",
+        "Raigarh Road"
+      ],
+      "Raipur": [
+        "KK Road"
+      ]
+    },
+    "Delhi": {
+      "New Delhi": [
+        "Badarpur",
+        "Burari",
+        "Chittaranjan Park",
+        "Dakshinpuri Extension",
+        "Dashratpuri",
+        "Kanjhawala",
+        "Kanti Nagar",
+        "Kotla Mubarakpur",
+        "Najafgarh",
+        "Nangloi",
+        "Narela",
+        "Pandav Nagar",
+        "Patpargang",
+        "Sant Nagar",
+        "Sector 16, Rohini",
+        "Shakti Nagar",
+        "Shalimar Bagh",
+        "Uttam Nagar",
+        "Vasant Kunj",
+        "West Patel Nagar"
+      ]
+    },
+    "Goa": {
+      "North Goa": [
+        "Karaswada",
+        "Muslim Wada",
+        "Tiswadi"
+      ],
+      "South Goa": [
+        "Dabolim"
+      ]
+    },
+    "Gujarat": {
+      "Ahmedabad": [
+        "Chandkheda",
+        "Gota",
+        "Juna Vadaj",
+        "Maninagar",
+        "Motera",
+        "Naroda",
+        "Nigam Nagar",
+        "Nikol",
+        "Odhav",
+        "Sarkhej",
+        "Sola",
+        "South Bopal",
+        "Viramgam"
+      ],
+      "Amreli": [
+        "Lathi Road"
+      ],
+      "Anand": [
+        "Sardar Ganj"
+      ],
+      "Banaskantha": [
+        "Tharad"
+      ],
+      "Bharuch": [
+        "Abc Circle"
+      ],
+      "Gandhinagar": [
+        "Dehgram",
+        "Kalol",
+        "Khoraj",
+        "Kudasan"
+      ],
+      "Himmatnagar": [
+        "Motipura Circle"
+      ],
+      "Idar": [
+        "Ambaji Highway Road"
+      ],
+      "Jamnagar": [
+        "KV Road"
+      ],
+      "Kachchh": [
+        "Mundra"
+      ],
+      "Kadi": [
+        "Highway Road"
+      ],
+      "Rajkot": [
+        "Dhoraji",
+        "Morbi Road"
+      ],
+      "Surat": [
+        "LP Savani Road",
+        "Morabhagal",
+        "Pal Gam",
+        "Varachha",
+        "Varachha Road"
+      ],
+      "Surendranagar": [
+        "Limdi"
+      ],
+      "Vadodara": [
+        "Gotri Main Road",
+        "Kalali",
+        "Sama Savli Road",
+        "Uma Nagar"
+      ],
+      "Vapi": [
+        "GIDC",
+        "Morarji Circle"
+      ]
+    },
+    "Haryana": {
+      "Ambala": [
+        "G T Road"
+      ],
+      "Faridabad": [
+        "Mathura Road",
+        "Sector 86"
+      ],
+      "Gurugram": [
+        "Sector 4",
+        "Sector 62",
+        "Sector 94"
+      ],
+      "Hodal": [
+        "Old GT Road"
+      ],
+      "Jind": [
+        "Safidon Road"
+      ],
+      "Kaithal": [
+        "Model Town"
+      ],
+      "Karnal": [
+        "Hansi Road"
+      ],
+      "Narnaul": [
+        "Agrasen Chowk"
+      ],
+      "Palwal": [
+        "Railway Road"
+      ],
+      "Panchkula": [
+        "Kalka"
+      ],
+      "Rewari": [
+        "Delhi Road"
+      ],
+      "Rohtak": [
+        "Subhash Nagar"
+      ],
+      "Sirsa": [
+        "Arya Samaj Road,"
+      ],
+      "Sonipat": [
+        "Ganaur"
+      ],
+      "Yamuna Nagar": [
+        "Shivaji Market"
+      ]
+    },
+    "Himachal Pradesh": {
+      "Baddi": [
+        "Chowki Wal"
+      ],
+      "Solan": [
+        "Deonghat"
+      ]
+    },
+    "Jammu And Kashmir": {
+      "Budgam": [
+        "Chadoora",
+        "Mirgund"
+      ],
+      "Jammu": [
+        "Akhloor Road",
+        "Samba"
+      ],
+      "Srinagar": [
+        "Batamaloo",
+        "Batmaloo"
+      ]
+    },
+    "Jharkhand": {
+      "Bokaro": [
+        "Bokaro Steel City",
+        "Jaina"
+      ],
+      "East Singhbhum": [
+        "Transport Nagar"
+      ],
+      "Garhwa": [
+        "Tandwa"
+      ],
+      "Giridih": [
+        "Boro"
+      ],
+      "Hazaribagh": [
+        "Bajrangi Chowk",
+        "Pugmill"
+      ],
+      "Jamshedpur": [
+        "Sakchi"
+      ],
+      "Ramgarh": [
+        "Ramgarh Cantt"
+      ],
+      "Ranchi": [
+        "Hazaribagh Road",
+        "Jain Temple Road",
+        "Kathitanr",
+        "Kokar Chowk",
+        "Neori",
+        "Pandra"
+      ],
+      "West Singhbhum": [
+        "Chaibasa"
+      ]
+    },
+    "Madhya Pradesh": {
+      "Betul": [
+        "Ganj"
+      ],
+      "Bhopal": [
+        "Kohefiza",
+        "Kolar Road",
+        "Mali Market",
+        "MP Nagar",
+        "North PP Nagar",
+        "Padmnadh Nagar",
+        "Roshanpura"
+      ],
+      "Chhatarpur": [
+        "Nowgong Road"
+      ],
+      "Chhindwara": [
+        "Lal Bagh Collage Road"
+      ],
+      "Damoh": [
+        "Civil Ward"
+      ],
+      "Dewas": [
+        "Lohar Pipliya"
+      ],
+      "Dhar": [
+        "Bakhtawar Marg"
+      ],
+      "Gwalior": [
+        "Roshanighar Road"
+      ],
+      "Indore": [
+        "Dwarika Puri Main Road",
+        "Greater Brajeshwari",
+        "Kanadia Main Road",
+        "Mechanic Nagar",
+        "Rau",
+        "RNT Marg",
+        "Sector A",
+        "Snehnagar"
+      ],
+      "Jabalpur": [
+        "Baldev Bagh",
+        "Mahanadda"
+      ],
+      "Katni": [
+        "Mittal Nagar"
+      ],
+      "Khandwa": [
+        "Padawa"
+      ],
+      "Mandsaur": [
+        "Sitamau Road"
+      ],
+      "Morena": [
+        "Pipripura"
+      ],
+      "Nagda": [
+        "Nagda"
+      ],
+      "Narmadapuram": [
+        "Pipap Mohalla"
+      ],
+      "Rajgarh": [
+        "Khilchipur"
+      ],
+      "Rewa": [
+        "Gol Park",
+        "Saman Tiraha"
+      ],
+      "Sagar": [
+        "Bhagwan Ganj"
+      ],
+      "Satna": [
+        "Jeevan Jyoti Colony"
+      ],
+      "Seoni": [
+        "Nagpur Road"
+      ],
+      "Umaria": [
+        "Khalesar Naka"
+      ],
+      "Waidhan": [
+        "Kachani"
+      ]
+    },
+    "Maharashtra": {
+      "Ahmednagar": [
+        "Savedi"
+      ],
+      "Akola": [
+        "Ramdaspeth"
+      ],
+      "Alibag": [
+        "Pimpalbhat"
+      ],
+      "Amravati": [
+        "Irwin Chowk"
+      ],
+      "Beed": [
+        "Jalna Road",
+        "Sambhaji Nagar"
+      ],
+      "Chandrapur": [
+        "Lakhmapur"
+      ],
+      "Gondia": [
+        "Sales Tax Colony"
+      ],
+      "Jalgaon": [
+        "Mahaveer Mard"
+      ],
+      "Jalna": [
+        "Aurangabad Choufully"
+      ],
+      "Karad": [
+        "Malkapur"
+      ],
+      "Kolhapur": [
+        "Station Road"
+      ],
+      "Latur": [
+        "Ring Road"
+      ],
+      "Mumbai": [
+        "Andheri East",
+        "Ghatkopar West",
+        "Jogeshwari East",
+        "Pestom Sagar"
+      ],
+      "Nagpur": [
+        "Anant Nagar",
+        "Jaripatka",
+        "Karve Nagar",
+        "Medical Square",
+        "Sadar Bazar",
+        "Wadi",
+        "Wanadongri"
+      ],
+      "Nanded": [
+        "Hingoli Road"
+      ],
+      "Nashik": [
+        "Dwarka",
+        "Igatpuri",
+        "New Adgaon Naka",
+        "Satana"
+      ],
+      "Navi Mumbai": [
+        "Kamothe, Sector 20",
+        "Kharghar, Sector 3",
+        "Sector 11"
+      ],
+      "Pune": [
+        "Balaji Nagar",
+        "Chinchwad",
+        "Dattawadi Nere",
+        "Hadapsar",
+        "Handewadi",
+        "Karvenagar",
+        "Nimbalkar Nagar",
+        "Pune Nagar Road",
+        "Rahatani",
+        "Ravet",
+        "Shel Pimpalgaon",
+        "Talegaon Dabhade",
+        "Tilekar Nagar"
+      ],
+      "Raigad": [
+        "Khalapur"
+      ]
+    }
+  },
+  "inputs_completed": [],
+  "links_completed": [],
+  "current_page": 1,
+  "last_refresh_time": 0
+}

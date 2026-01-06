@@ -1,0 +1,19 @@
+# Python / venv
+venv/
+crawlee_env/
+__pycache__/
+
+# ML / Torch binaries
+*.dll
+*.pt
+*.pth
+
+# Databases
+*.db
+*.duckdb
+
+# Large NLP files
+glove*.txt
+
+# Playwright
+.ms-playwright/

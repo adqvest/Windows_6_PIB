@@ -1,0 +1,19 @@
+{
+  "id": "sxL1RcLYNIurXMM",
+  "unique_key": "https://reebok.abfrl.in/storelocator",
+  "order_no": "1762201948754.582000",
+  "handled_at": null,
+  "request": {
+    "url": "https://reebok.abfrl.in/storelocator",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {},
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://reebok.abfrl.in/storelocator",
+    "id": "sxL1RcLYNIurXMM"
+  }
+}
