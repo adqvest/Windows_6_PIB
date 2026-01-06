@@ -1,0 +1,7 @@
+Env Detail
+Host ec2-3-108-253-129.ap-south-1.compute.amazonaws.com
+Port 5432
+DB_Name adqvest
+User_Name postgres
+Password_String @Thur&TPa@##123
+

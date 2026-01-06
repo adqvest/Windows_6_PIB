@@ -1,0 +1,43 @@
+Slide_No,Chart_Title,Variable_Column,2019-20,2020-21,2021-22,2022-23,2023-24,2024-25,Unit
+2,Monthly Production - Jan '24,Passenger Vechicle,343.57,310.86,303.83,310.33,380.48,417.95,In '000
+2,Monthly Production - Jan '24,Three-Wheeler,96.32,103.98,63.42,68.21,73.58,77.12,In '000
+2,Monthly Production - Jan '24,Two-Wheeler,"1,848.21","1,633.98","1,839.05","1,496.06","1,454.48","1,832.66",In '000
+3,Monthly Domestic Sales - Jan '24,Passenger Vechicle,260.91,248.84,276.55,254.29,298.09,339.44,In '000
+3,Monthly Domestic Sales - Jan '24,Three-Wheeler,54.04,60.90,26.79,24.18,48.90,53.54,In '000
+3,Monthly Domestic Sales - Jan '24,Two-Wheeler,"1,597.53","1,341.00","1,429.93","1,140.89","1,184.38","1,495.18",In '000
+4,Monthly Exports - Jan '24,Passenger Vechicle,46.64,36.76,37.19,40.78,55.61,49.24,In '000
+4,Monthly Exports - Jan '24,Three-Wheeler,44.06,43.10,40.66,39.15,23.08,19.99,In '000
+4,Monthly Exports - Jan '24,Two-Wheeler,246.75,304.49,384.86,374.97,220.10,260.31,In '000
+5,Monthly Production - PV (Sub Categories) - Jan '24,Passenger Cars,222.84,198.39,173.46,158.89,187.54,171.44,In '000
+5,Monthly Production - PV (Sub Categories) - Jan '24,Utility Vehicles/SUVs,102.46,97.62,118.42,140.64,179.90,233.37,In '000
+5,Monthly Production - PV (Sub Categories) - Jan '24,Vans,18.27,14.86,11.95,10.81,13.04,13.14,In '000
+6,Monthly Domestic Sales - PV (Sub-Categories) -  Jan '24,Passenger Cars,168.32,155.05,153.24,126.69,136.93,126.50,In '000
+6,Monthly Domestic Sales - PV (Sub-Categories) -  Jan '24,Utility Vehicles/SUVs,75.98,81.23,111.49,116.96,149.33,200.92,In '000
+6,Monthly Domestic Sales - PV (Sub-Categories) -  Jan '24,Vans,16.61,12.56,11.82,10.63,11.83,12.02,In '000
+7,Monthly Exports - PV (Sub-Categories) -  Jan '24,Passenger Cars,37.61,23.43,24.99,25.23,31.00,29.81,In '000
+7,Monthly Exports - PV (Sub-Categories) -  Jan '24,Utility Vehicles/SUVs,8.84,13.27,12.06,15.50,24.59,18.85,In '000
+7,Monthly Exports - PV (Sub-Categories) -  Jan '24,Vans,0.19,0.07,0.13,0.05,0.02,0.58,In '000
+8,Monthly Production - 3W (Sub-Categories) - Jan '24,Goods Carrier,11.90,11.24,10.63,7.87,9.18,10.59,In '000
+8,Monthly Production - 3W (Sub-Categories) - Jan '24,Passenger Carrier,84.41,92.74,52.79,60.34,64.39,66.53,In '000
+9,Monthly Domestic Sales - 3W (Sub-Categories) - Jan '24,Goods Carrier,11.50,10.28,9.51,6.17,8.65,10.44,In '000
+9,Monthly Domestic Sales - 3W (Sub-Categories) - Jan '24,Passenger Carrier,42.54,50.62,17.28,18.01,40.25,43.10,In '000
+10,Monthly Exports - 3W (Sub-Categories) - Jan '24,Goods Carrier,0.83,0.34,0.74,1.24,0.08,0.37,In '000
+10,Monthly Exports - 3W (Sub-Categories) - Jan '24,Passenger Carrier,43.23,42.75,39.92,37.91,23.00,19.62,In '000
+11,Monthly Production - 2W (Sub-Categories) -  Jan '24,Mopeds,71.20,52.31,62.55,42.31,37.73,41.62,In '000
+11,Monthly Production - 2W (Sub-Categories) -  Jan '24,Motorcycles,"1,219.32","1,147.43","1,290.45","1,068.89","1,012.29","1,246.70",In '000
+11,Monthly Production - 2W (Sub-Categories) -  Jan '24,Scooters,557.70,433.99,486.04,384.86,404.46,544.34,In '000
+12,Monthly Domestic Sales - 2W (Sub-Categories) -  Jan '24,Mopeds,72.59,52.52,59.01,35.78,36.72,42.04,In '000
+12,Monthly Domestic Sales - 2W (Sub-Categories) -  Jan '24,Motorcycles,"1,027.77",871.89,916.36,743.80,771.62,965.61,In '000
+12,Monthly Domestic Sales - 2W (Sub-Categories) -  Jan '24,Scooters,497.17,416.57,454.56,361.30,376.03,487.53,In '000
+13,Monthly Exports - 2W (Sub-Categories) -  Jan '24,Mopeds,0.13,1.16,0.48,0.14,0.41,0.00,In '000
+13,Monthly Exports - 2W (Sub-Categories) -  Jan '24,Motorcycles,226.99,273.48,358.78,341.45,189.44,223.99,In '000
+13,Monthly Exports - 2W (Sub-Categories) -  Jan '24,Scooters,19.63,29.84,25.60,33.37,30.26,36.32,In '000
+14,Monthly Production Cumulative -  Jan '24,Passenger Vehicle,"3,357.50","2,904.87","2,309.81","2,885.12","3,743.72","3,977.70",In '000
+14,Monthly Production Cumulative -  Jan '24,Three-Wheelers,"1,039.74",990.38,470.11,622.58,710.74,833.07,In '000
+14,Monthly Production Cumulative -  Jan '24,Two-Wheelers,"20,943.11","18,287.49","14,539.78","14,813.60","16,544.16","17,776.30",In '000
+15,Monthly Domestic Sales Cumulative -  Jan '24,Passenger Vehicle,"2,813.28","2,366.76","2,054.43","2,403.12","3,169.85","3,422.69",In '000
+15,Monthly Domestic Sales Cumulative -  Jan '24,Three-Wheelers,574.86,568.16,159.48,202.18,384.03,580.44,In '000
+15,Monthly Domestic Sales Cumulative -  Jan '24,Two-Wheelers,"18,124.31","15,254.80","12,197.11","11,321.10","13,442.56","14,966.02",In '000
+16,Monthly Exports Cumulative -  Jan '24,Passenger Vehicle,557.18,577.04,328.36,464.78,546.57,555.46,In '000
+16,Monthly Exports Cumulative -  Jan '24,Three-Wheelers,472.51,433.33,312.05,425.20,326.58,249.86,In '000
+16,Monthly Exports Cumulative -  Jan '24,Two-Wheelers,"2,759.94","2,989.32","2,561.97","3,716.20","3,171.46","2,803.22",In '000

@@ -1,0 +1,485 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb  9 15:26:55 2022
+
+@author: Abhishek Shankar
+"""
+
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug  9 14:19:43 2021
+
+@author: Abhishek Shankar
+"""
+
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jul 30 14:21:41 2021
+
+@author: Abhishek Shankar
+"""
+from selenium import webdriver
+from selenium.webdriver.support.select import Select
+import pandas as pd
+from dateutil import parser
+import datetime as datetime
+from datetime import date
+import timeit
+import io
+import numpy as np
+from pytz import timezone
+from selenium import webdriver
+from selenium.webdriver.support.select import Select
+import pandas as pd
+from dateutil import parser
+import datetime as datetime
+from datetime import date
+import timeit
+import io
+import numpy as np
+from pytz import timezone
+import time
+import numpy as np
+import re
+import itertools
+import requests
+import sqlalchemy
+from pandas.io import sql
+import os
+from bs4 import BeautifulSoup
+from dateutil import parser
+import sys
+import warnings
+warnings.filterwarnings('ignore')
+import csv
+import calendar
+import pdb
+import json
+from dateutil import parser
+warnings.filterwarnings('ignore')
+sys.path.insert(0, 'C:/Users/Administrator/AdQvestDir/Adqvest_Function/')
+#sys.path.insert(0, r'C:\Adqvest')
+#import adqvest_db
+import JobLogNew as log
+import adqvest_db
+
+
+#start_time = timeit.default_timer()
+india_time = timezone('Asia/Kolkata')
+today      = datetime.datetime.now(india_time)
+days       = datetime.timedelta(1)
+yesterday =  today - days
+
+engine = adqvest_db.db_conn()
+connection = engine.connect()
+
+def tableDataText(table):
+    """Parses a html segment started with tag <table> followed
+    by multiple <tr> (table rows) and inner <td> (table data) tags.
+    It returns a list of rows with inner columns.
+    Accepts only one <th> (table header/data) in the first row.
+    """
+    def rowgetDataText(tr, coltag='td'): # td (data) or th (header)
+        return [td.get_text(strip=True) for td in tr.find_all(coltag)]
+    rows = []
+    trs = table.find_all('tr')
+    headerow = rowgetDataText(trs[0], 'th')
+    if headerow: # if there is a header row include first
+        rows.append(headerow)
+        trs = trs[1:]
+    for tr in trs: # for every table row
+        rows.append(rowgetDataText(tr, 'td') ) # data row
+    return rows
+
+def get_pages(soup,r,r2):
+  ''' Pages Iteration '''
+  headers = {"user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"}
+  url = 'http://environmentclearance.nic.in/offlineproposal_status.aspx'
+
+
+  pages = soup.find_all("table",{"class":"table Grid1"}==False)
+  pages = [x.find("table") for x in pages]
+  pages = [x for x in pages if x!=None][-1]
+  pages = pages.find_all("a")
+  pages = [x['href'] for x in pages]
+  pages_fns = [eval(x.split("javascript:__doPostBack")[-1])[0] for x in pages]
+  pages_nos_fns = [eval(x.split("javascript:__doPostBack")[-1])[1] for x in pages]
+  final_page = pages_nos_fns[-1]
+  #pages_nos_fns = [eval(x.split("javascript:__doPostBack")[-2])[0] for x in pages]
+  #GETTING ALL JAVASCRIPT FUNCTIONS FROM PAGE
+  view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+  event_target        = soup.select('input[name=__EVENTTARGET]')[0]['value']
+  #last_focus          = soup.select('input[name=__LASTFOCUS]')[0]['value']
+  event_argument      = soup.select('input[name=__EVENTARGUMENT]')[0]['value']
+  view_stategenerator = soup.select('input[name=__VIEWSTATEGENERATOR]')[0]['value']
+  view_statencrypted  = soup.select('input[name=__VIEWSTATEENCRYPTED]')[0]['value']
+  view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+  event_validation    = soup.select('input[name=__EVENTVALIDATION]')[0]['value']
+
+  #fns = eval(all_fns[45].split("javascript:__doPostBack")[-1])[0]
+
+  data = {
+          "__EVENTTARGET":pages_fns[0],
+          "__EVENTARGUMENT":final_page,
+          "__VIEWSTATE":view_state,
+          "__VIEWSTATEGENERATOR":view_stategenerator,
+          "__EVENTVALIDATION":event_validation,
+          "__VIEWSTATEENCRYPTED":view_statencrypted,
+          "ctl00$ContentPlaceHolder1$textbox2": ""}
+
+  url2 = "http://environmentclearance.nic.in/offlineproposal_status.aspx"
+  headers['Cookie'] = '; '.join([x.name + '=' + x.value for x in r2.cookies])
+  headers['content-type'] = 'application/x-www-form-urlencoded'
+  headers['Host']=  'environmentclearance.nic.in'
+  headers['Origin']=  'http://environmentclearance.nic.in'
+  headers['Referer'] = 'http://environmentclearance.nic.in/offlineproposal_status.aspx'
+
+  r_2 = r.post(url, headers=headers, data=data)
+  print(r_2.status_code)
+
+  soup = BeautifulSoup(r_2.content,"html")
+  table = soup.find("table",{"class":"table Grid1"})
+  df = pd.read_html(str(table))
+  #print(soup)
+  total_pages = list(df[-1].iloc[0])[-1] # EXCLUDING LAST PAGE
+  page_nos_function = []
+  page_fns = []
+  for i in range(2,total_pages):
+    page_nos_function.append("Page$"+str(i))
+    page_fns.append(list(set([eval(x.split("javascript:__doPostBack")[-1])[0] for x in pages]))[0])
+
+  page_df = pd.DataFrame({"Page_Function":page_fns,"Page_Nos":page_nos_function})
+  page_df.loc[len(page_df)+1,"Page_Nos"] = final_page
+  page_df.loc[len(page_df),"Page_Function"] = page_fns[0]
+
+
+  return page_df
+
+def nth_repl(s, sub, repl, n):
+    find = s.find(sub)
+    # If find is not -1 we have found at least one match for the substring
+    i = find != -1
+    # loop util we find the nth or we find no match
+    while find != -1 and i != n:
+        # find + 1 means we start searching from after the last match
+        find = s.find(sub, find + 1)
+        i += 1
+    # If i is equal to n we found nth match so replace
+    if i == n:
+        return s[:find] + repl + s[find+len(sub):]
+    return s
+
+def level2data(output,soup,sesh,headers):
+
+  r = sesh
+  sub_data = pd.DataFrame()
+
+  ''' Level 2 '''
+  #GETTING ALL JAVASCRIPT FUNCTIONS FROM PAGE
+  view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+  event_target        = soup.select('input[name=__EVENTTARGET]')[0]['value']
+  #last_focus          = soup.select('input[name=__LASTFOCUS]')[0]['value']
+  event_argument      = soup.select('input[name=__EVENTARGUMENT]')[0]['value']
+  view_stategenerator = soup.select('input[name=__VIEWSTATEGENERATOR]')[0]['value']
+  view_statencrypted  = soup.select('input[name=__VIEWSTATEENCRYPTED]')[0]['value']
+  view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+  event_validation    = soup.select('input[name=__EVENTVALIDATION]')[0]['value']
+  for i,row in output.copy().iterrows():
+
+    time.sleep(2)
+    try:
+      fns = row['Level_2_Functions']
+
+      data = {
+              "__EVENTTARGET":fns,
+              "__EVENTARGUMENT":event_argument,
+              "__VIEWSTATE":view_state,
+              "__VIEWSTATEGENERATOR":view_stategenerator,
+              "__VIEWSTATEENCRYPTED":view_statencrypted,
+              "__EVENTVALIDATION":event_validation,
+              "ctl00$ContentPlaceHolder1$textbox2": ""}
+
+      url2 = "http://environmentclearance.nic.in/offlineproposal_status.aspx"
+      headers['Cookie'] = '; '.join([x.name + '=' + x.value for x in r.cookies])
+      headers['content-type'] = 'application/x-www-form-urlencoded'
+      headers['Host']=  'environmentclearance.nic.in'
+      headers['Origin']=  'http://environmentclearance.nic.in'
+      headers['Referer'] = 'http://environmentclearance.nic.in/offlineproposal_status.aspx'
+
+      r3 = r.post(url2, headers=headers, data=data)
+      print(r3.status_code)
+      soup3 = BeautifulSoup(r3.text,'html')
+    #  table = soup3.find("table",{"class":"table Grid1"})
+    #  details1 = pd.read_html(str(table))
+      #soup = BeautifulSoup(r3.content,"html")
+
+      '''CLEANING THE DATA'''
+
+      #AFTER GETTING THE PAGE DATA INTO TABULAR FORMAT
+      df2 = tableDataText(soup3)
+      df2 = [x for x in df2 if len(x)==3]
+      df2 = [" ".join(x) for x in df2]
+      df2 = [x for x in df2 if ":" in x]
+      df2 = [re.sub(' +',' ',x) for x in df2]
+      df2 = [x.replace(" : ",":") for x in df2]
+      df2 = [x for x in df2 if "enter" not in x.lower()]
+      df2 = [x for x in df2 if ('' in x.split(':'))==False]
+      df2 = [nth_repl(x, "No:"," ",1) if x.count("No:")>=2 else x for x in df2 ]
+      #df2 = [nth_repl(x, "Area:"," ",1) if x.count("Area:")>=2 else x for x in df2 ]
+      df2 = [re.sub(' +', ' ', x) for x in df2]
+    #  df2 = ["{"+x+"}" for x in df2]
+    #  df2 = [x.replace("[","") for x in df2]
+    #  import yaml
+
+      def list_to_dict(rlist):
+          return dict(map(lambda s : s.split(':'), rlist))
+    #  df2 = [yaml.load(x) for x in df2]
+      details2 = pd.DataFrame(list_to_dict(df2),index=[0])
+    #  del df2
+      a = pd.DataFrame(row).T.reset_index(drop=True)
+      b = details2.reset_index(drop=True)
+
+      data1 = pd.concat([a,b],axis=1)
+      data1['Function'] = fns
+      data1['Timestamp'] = pd.to_datetime(today.strftime("%Y-%m-%d %H:%M:%S"))
+    #  del details2
+      pt = fns.split("ContentPlaceHolder1")[-1]
+      sub_data = pd.concat([sub_data,data1])
+      print("####### Done : ",pt , "#######" )
+    except:
+      print("NA ",row['Level_2_Functions'])
+      continue
+
+
+
+  sub_data['Data_Check'] = np.where(sub_data['Proposal_No']==sub_data['Proposal No'],0,1)
+
+
+  return sub_data
+#%%
+def run_program(run_by = 'Adqvest_Bot', py_file_name = None):
+    os.chdir('C:/Users/Administrator/AdQvestDir/')
+#    os.chdir(r'C:\Adqvest')
+
+    engine = adqvest_db.db_conn()
+    connection = engine.connect()
+
+    start_time = timeit.default_timer()
+    india_time = timezone('Asia/Kolkata')
+    today      = datetime.datetime.now(india_time)
+    days       = datetime.timedelta(1)
+    yesterday =  today - days
+    end_date = yesterday.date()
+
+    job_start_time = datetime.datetime.now(india_time)
+    table_name = "MEFCC_PROPOSAL_YEARLY_DATA_PARIVESH"
+    scheduler = ''
+    no_of_ping = 0
+
+    if(py_file_name is None):
+        py_file_name = sys.argv[0].split('.')[0]
+
+
+    try :
+        if(run_by == 'Adqvest_Bot'):
+            log.job_start_log_by_bot(table_name,py_file_name,job_start_time)
+        else:
+            log.job_start_log(table_name,py_file_name,job_start_time,scheduler)
+#%%
+        #df = pd.read_excel("C:\Adqvest\Adam")
+
+        ''' Level 1 '''
+
+        not_found = pd.read_sql("Select Page,SNo from AdqvestDB.MEFCC_PROPOSALS_YEARLY_DATA_PARIVESH_FINAL_PIT_CLEAN_DATA where Runtime in (Select max(Runtime) as Runtime from AdqvestDB.MEFCC_PROPOSALS_YEARLY_DATA_PARIVESH_FINAL_PIT_CLEAN_DATA)",con=engine)
+
+        headers = {"user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"}
+
+        url = 'http://environmentclearance.nic.in/offlineproposal_status.aspx'
+        r       = requests.Session()
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36'}
+        r1      = r.get(url, headers=headers)
+
+        soup                = BeautifulSoup(r1.content,'lxml')
+        view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+        event_target        = soup.select('input[name=__EVENTTARGET]')[0]['value']
+        #last_focus          = soup.select('input[name=__LASTFOCUS]')[0]['value']
+        event_argument      = soup.select('input[name=__EVENTARGUMENT]')[0]['value']
+        view_stategenerator = soup.select('input[name=__VIEWSTATEGENERATOR]')[0]['value']
+        view_statencrypted  = soup.select('input[name=__VIEWSTATEENCRYPTED]')[0]['value']
+        view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+        event_validation    = soup.select('input[name=__EVENTVALIDATION]')[0]['value']
+
+
+        data = {
+                "__EVENTTARGET":event_target,
+                "__EVENTARGUMENT":event_argument,
+                "__VIEWSTATE":view_state,
+                "__VIEWSTATEGENERATOR":view_stategenerator,
+                "__EVENTVALIDATION":event_validation,
+                "__VIEWSTATEENCRYPTED":view_statencrypted,
+                "ctl00$ContentPlaceHolder1$textbox2": "",
+                "ctl00$ContentPlaceHolder1$btn": "Search"}
+
+
+        headers['Cookie'] = '; '.join([x.name + '=' + x.value for x in r.cookies])
+        headers['content-type'] = 'application/x-www-form-urlencoded'
+        headers['Host']=  'environmentclearance.nic.in'
+        headers['Origin']=  'http://environmentclearance.nic.in'
+        headers['Referer'] = 'http://environmentclearance.nic.in/offlineproposal_status.aspx'
+
+        r2 = r.post(url, headers=headers, data=data)
+        print(r2.status_code)
+
+
+        soup = BeautifulSoup(r2.content,"html")
+        #print(soup)
+
+        table = soup.find("table",{"class":"table Grid1"})
+        df = pd.read_html(str(table))
+        #df = pd.read_html(soup)
+        output = df[0].copy()
+        first_index = output[output.iloc[:,0].str.lower().str.contains("sno")].index[0]
+        final_index = len(output)-1
+        output = output[first_index:final_index]
+        output.columns = output.iloc[0]
+        output = output.iloc[1:len(output)]
+        output.columns = [x.replace(".","") for x in output.columns]
+        output.columns = [re.sub(' +',' ',x) for x in output.columns]
+        output.columns = [x.title() for x in output.columns]
+        output.columns = [x.replace(" ","_") for x in output.columns]
+        output = output.dropna(how='all',axis=1)
+#        output.columns = [x.replace("Moefcc")]
+        all_fns = soup.find_all("a",{"title":"Click To View"})
+        all_fns = [x['href'] for x in all_fns]
+        all_fns = [eval(x.split("javascript:__doPostBack")[-1])[0] for x in all_fns]
+        output['Level_2_Functions'] = all_fns
+        output['Page'] = 1
+        output['Relevant_Date'] = today.date()
+        output['Runtime'] =  pd.to_datetime(today.strftime("%Y-%m-%d %H:%M:%S"))
+
+        ''' PAGE 1 '''
+#        output = level2data(output,soup,r,headers)
+        try:
+            print('done')
+#            output.to_sql(name = "MEFCC_PROPOSALS_YEARLY_DATA_PARIVESH_NO_PIT",con = engine,if_exists = 'append',index = False)
+        except:
+            pass
+
+        page_df = get_pages(soup,r,r2)
+        lp = page_df.copy()
+        send = pd.DataFrame()
+        for i,row in page_df.iterrows():
+        #  print(row['Page_Nos'])
+
+#          time.sleep(1)
+          ''' Pages Iteration '''
+
+          pg_nos = row['Page_Nos'].split("$")[-1]
+#          if pg_nos!='348':
+#            continue
+          pages = soup.find_all("table",{"class":"table Grid1"}==False)
+
+
+          pages = [x.find("table") for x in pages]
+          pages = [x for x in pages if x!=None][-1]
+          pages = pages.find_all("a")
+          pages = [x['href'] for x in pages]
+          pages_fns = [eval(x.split("javascript:__doPostBack")[-1])[0] for x in pages]
+          pages_nos_fns = [eval(x.split("javascript:__doPostBack")[-1])[1] for x in pages]
+          final_page = pages_nos_fns[-1]
+          #pages_nos_fns = [eval(x.split("javascript:__doPostBack")[-2])[0] for x in pages]
+          #GETTING ALL JAVASCRIPT FUNCTIONS FROM PAGE
+          view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+          event_target        = soup.select('input[name=__EVENTTARGET]')[0]['value']
+          #last_focus          = soup.select('input[name=__LASTFOCUS]')[0]['value']
+          event_argument      = soup.select('input[name=__EVENTARGUMENT]')[0]['value']
+          view_stategenerator = soup.select('input[name=__VIEWSTATEGENERATOR]')[0]['value']
+          view_statencrypted  = soup.select('input[name=__VIEWSTATEENCRYPTED]')[0]['value']
+          view_state          = soup.select('input[name=__VIEWSTATE]')[0]['value']
+          event_validation    = soup.select('input[name=__EVENTVALIDATION]')[0]['value']
+
+          #fns = eval(all_fns[45].split("javascript:__doPostBack")[-1])[0]
+
+          data = {
+                  "__EVENTTARGET":row['Page_Function'],
+                  "__EVENTARGUMENT":row['Page_Nos'],
+                  "__VIEWSTATE":view_state,
+                  "__VIEWSTATEGENERATOR":view_stategenerator,
+                  "__EVENTVALIDATION":event_validation,
+                  "__VIEWSTATEENCRYPTED":view_statencrypted,
+                  "ctl00$ContentPlaceHolder1$textbox2": ""}
+
+          url2 = "http://environmentclearance.nic.in/offlineproposal_status.aspx"
+          headers['Cookie'] = '; '.join([x.name + '=' + x.value for x in r2.cookies])
+          headers['content-type'] = 'application/x-www-form-urlencoded'
+          headers['Host']=  'environmentclearance.nic.in'
+          headers['Origin']=  'http://environmentclearance.nic.in'
+          headers['Referer'] = 'http://environmentclearance.nic.in/offlineproposal_status.aspx'
+
+          r_2 = r.post(url, headers=headers, data=data)
+          print(r_2.status_code)
+
+          soup = BeautifulSoup(r_2.content,"html")
+          table = soup.find("table",{"class":"table Grid1"})
+          df = pd.read_html(str(table))
+          #df = pd.read_html(soup)
+          output = df[0].copy()
+          first_index = output[output.iloc[:,0].str.lower().str.contains("sno")].index[0]
+          final_index = len(output)-1
+          output = output[first_index:final_index]
+          output.columns = output.iloc[0]
+          output = output.iloc[1:len(output)]
+          output.columns = [x.replace(".","") for x in output.columns]
+          output.columns = [re.sub(' +',' ',x) for x in output.columns]
+          output.columns = [x.title() for x in output.columns]
+          output.columns = [x.replace(" ","_") for x in output.columns]
+          all_fns = soup.find_all("a",{"title":"Click To View"})
+          all_fns = [x['href'] for x in all_fns]
+          all_fns = [eval(x.split("javascript:__doPostBack")[-1])[0] for x in all_fns]
+          output['Level_2_Functions'] = all_fns
+          if "last" in row['Page_Nos'].lower():
+            output['Page'] = int(lp.iloc[len(lp)-2,1].split("Page$")[-1])+1
+          else:
+            output['Page'] = int(row['Page_Nos'].split("Page$")[-1])
+          output = output.dropna(how='all',axis=1)
+          output['Relevant_Date'] = today.date()
+          output['Runtime'] =  pd.to_datetime(today.strftime("%Y-%m-%d %H:%M:%S"))
+          print("############", str(row['Page_Nos']) ,"############")
+          not_found_1 = list(not_found[not_found['Page']==int(pg_nos)]['SNo'])
+          output = output[~output['Sno'].astype(int).isin(not_found_1)]
+          if output.empty:
+            continue
+          try:
+            output = level2data(output,soup,r,headers)
+            send = pd.concat([send,output])
+          except:
+            print(" NOT POSSY")
+            continue
+          time.sleep(1)
+
+          try:
+              print("DONE")
+#              output.to_sql(name = "MEFCC_PROPOSALS_YEARLY_DATA_PARIVESH_NO_PIT",con = engine,if_exists = 'append',index = False)
+          except:
+              try:
+                  wd = "C:/Users/Administrator/AdQvestDir/codes/INPUT_FILES"
+                  sub_data.to_csv(wd+"PARIVESH"+str(pg_nos)+".csv",index=False)
+                  continue
+              except:
+                  continue
+        send.to_sql(name = "MEFCC_PROPOSALS_YEARLY_DATA_PARIVESH_NO_PIT_NF_2",con = engine,if_exists = 'append',index = False)
+        log.job_end_log(table_name,job_start_time, no_of_ping)
+#%%
+    except:
+        try:
+            connection.close()
+        except:
+            pass
+        error_type = str(re.search("'(.+?)'",str(sys.exc_info()[0])).group(1))
+        error_msg = str(sys.exc_info()[1])
+        print(error_msg)
+
+        log.job_error_log(table_name,job_start_time,error_type,error_msg, no_of_ping)
+
+if(__name__=='__main__'):
+    run_program(run_by = 'manual')

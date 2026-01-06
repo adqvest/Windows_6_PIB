@@ -1,0 +1,130 @@
+import os
+import io
+import re
+# import ast
+# import PyPDF2
+import boto3
+# import json
+import voyageai
+# import psycopg2
+# import anthropic
+# # import adqvest_db
+# import pandas as pd
+# import numpy as np
+from pytz import timezone
+import datetime as datetime
+import pypdfium2 as pdfium
+
+# from collections import Counter
+
+# from pdfminer.converter import TextConverter
+# from pdfminer.layout import LAParams
+
+# from psycopg2.extras import execute_values
+# from pgvector.psycopg2 import register_vector
+
+# import pytesseract
+# from pdf2image import convert_from_path
+
+import warnings
+warnings.filterwarnings('ignore')
+
+# import datetime as dt
+# import pytz
+# import time
+
+# import adqvest_s3
+# import boto3
+# import ntpath
+from botocore.config import Config
+# import requests
+# import boto3
+# from botocore.exceptions import NoCredentialsError
+
+import pdfquery
+# import json
+from lxml import etree
+# from io import StringIO
+
+import sys
+sys.path.insert(0, 'C:/Users/Administrator/AdQvestDir/Adqvest_Function')
+import adqvest_db
+import JobLogNew as log
+# import ClickHouse_db
+
+engine = adqvest_db.db_conn()
+# client = ClickHouse_db.db_conn()
+
+def extract_page_number(content):
+    # Try to find page number pattern at the start of content
+    match = re.search(r'page number:\s*(\d+)', content.lower())
+    if match:
+        return match.group(1)
+    return None
+
+def reconstruct_url(url, page_number):
+    if page_number:
+        return f"{url}#page={page_number}"
+    return url
+
+
+
+
+# import pandas as pd
+
+# engine = adqvest_db.db_conn()
+# connection = engine.connect()
+
+# # query = "select * from AdqvestDB.INVESTOR_REPORTS_DAILY_DATA ORDER BY Company_Name ASC;"
+# query = "select * from AdqvestDB.COMBO_SCRAPY_RUN_FINAL_GOKUL_v3 ORDER BY Company ASC;"
+# data = pd.read_sql(query, con=engine)
+
+
+# from clickhouse_driver import Client
+
+
+# host = 'ec2-52-11-204-251.us-west-2.compute.amazonaws.com'
+# user_name = 'default'
+# password_string = 'Clickhouse@2024'
+# db_name = 'AdqvestDB'
+
+# client = Client(host, user=user_name, password=password_string, database=db_name)
+
+# doc = client.execute(f'''SELECT distinct(document_id) FROM thurro_pdf_documents_vector_db_life_insurance_final_v3 WHERE document_link = '';''')
+# len(doc)
+
+
+# companies = doc
+
+
+# company = [x[0] for x in companies]
+# data['File_ID'] = data['File_ID'].astype(str)
+# company = [str(x) for x in company]
+
+# data_1 = data[data['File_ID'].isin(company)]
+
+# data_1.reset_index(drop = True, inplace = True)
+
+# from clickhouse_driver import Client
+
+# host = 'ec2-52-11-204-251.us-west-2.compute.amazonaws.com'
+# user_name = 'default'
+# password_string = 'Clickhouse@2024'
+# db_name = 'AdqvestDB'
+
+# client = Client(host, user=user_name, password=password_string, database=db_name)
+
+# count = 0
+# for x in range(len(data_1)):
+#     data_1["Company"][x] = data_1["Company"][x].replace("'","\\'")
+#     url_value = data_1["Url"][x].replace("'", "''")
+#     document_id_value = data_1["File_ID"][x]
+
+#     client.execute(f'''ALTER TABLE thurro_pdf_documents_vector_db_life_insurance_final_v3 UPDATE document_link = '{url_value}' WHERE document_id = '{document_id_value}';''')
+#     client.execute(f'''ALTER TABLE thurro_pdf_documents_vector_db_life_insurance_final_v3 UPDATE vector_db_status = 'LINK UPDATED' WHERE document_id = '{document_id_value}';''')
+#     print("COMPLETED LOOP:",count)
+#     count += 1
+    
+#     if count % 900 == 0:
+#         print("OPTIMIZING DATA")
+#         client.execute(f'''OPTIMIZE TABLE thurro_pdf_documents_vector_db_life_insurance_final_v3 FINAL;''')    

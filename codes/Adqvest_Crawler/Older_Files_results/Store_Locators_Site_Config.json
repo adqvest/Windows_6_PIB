@@ -1,0 +1,857 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-01-15",
+    "description": "Store locator site configurations",
+    "total_sites": 13
+  },
+  "defaults": {
+    "cascade_wait_time": 3,
+    "page_load_timeout": 30000,
+    "country": "India",
+    "filter_flag": "city",
+    "skip_city_selector": false,
+    "skip_locality_selector": false
+  },
+
+  "sites": [
+    {
+      "site_id": "zudio",
+      "enabled": true,
+      "priority": 1,
+      "url": "https://www.zudio.com/apps/s/zudio/storelocators",
+      "company_name": "Trent Ltd",
+      "brand_name": "Zudio",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select#store_state",
+		        "city_selector": "select#store_city",
+		        "data_container_selector": "div.storedetails",
+		        "address_selector": "p"
+		        
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+
+    {
+      "site_id": "yousta",
+      "enabled": true,
+      "priority": 2,
+      "url": "https://relianceretail.com/nps/yousta/stores",
+      "company_name": "Reliance Retail",
+      "brand_name": "Yousta",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select#stateSelect",
+		        "city_selector": "select#citySelect",
+		        "data_container_selector": "div.scroll-wrapper",
+		        "address_selector": "p.prdtyp"
+      },
+      "options": {
+        "cascade_wait_time": 3
+
+      }
+    },
+
+    {
+      "site_id": "pngadgil",
+      "enabled": true,
+      "priority": 3,
+      "url": "https://pngadgilandsons.com/our-showrooms/",
+      "company_name": "P N Gadgil & Sons Ltd",
+      "brand_name": "P N Gadgil",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select#countrySelect",
+		        "city_selector": "select#citySelect",
+		        "data_container_selector": "div.section_wrapper.mfn-wrapper-for-wraps.mcb-section-inner.mcb-section-inner-b007589d6",
+		        "address_selector": "div.column_attr.mfn-inline-editor.clearfix.align_center"
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    
+    {
+      "site_id": "popeyes",
+      "enabled": true,
+      "priority": 4,
+      "url": "https://www.popeyes.in/stores",
+      "company_name": "Jubilant FoodWorks Limited",
+      "brand_name": "Popeyes",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "div.selectBox div.selectedPlace",
+		        "state_options_selector": "div.cityList div, div.selectedPlace",
+		        "data_container_selector": "div.stores-grid",
+		        "address_selector": "div.content > div:nth-child(2) p:nth-of-type(2)"
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    
+    {
+      "site_id": "malabar",
+      "enabled": true,
+      "priority": 5,
+      "url": "https://www.malabargoldanddiamonds.com/stores/india",
+      "company_name": "Malabar Group",
+      "brand_name": "Malabar",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select#state",
+		        "city_selector": "select#city",
+		        "search_selector": "input#store_submit",
+            "pagination_selector":"div.pages a.next.i-next",
+		        "data_container_selector": "div.main_storelsit, div.store_addcot.str_fleft",
+		        "address_selector": "div.main_storelsit div.str_addr, div.store_addcot.str_fleft div.store_addcotinner1 div.str_adcont"
+
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    
+    {
+      "site_id": "lifestyle",
+      "enabled": true,
+      "priority": 6,
+      "url": "https://stores.lifestylestores.com/",
+      "company_name": "Landmark Group",
+      "brand_name": "Lifestyle",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select#customState",
+		        "city_selector": "select#customCity",
+		        "search_selector": "button.btn",
+		        "data_container_selector": "div.col-lg-4.col-md-12:nth-child(2)",
+		        "address_selector": "ul.list-unstyled.outlet-detail > li:nth-child(n+2):nth-child(-n+3)"
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    {
+      "site_id": "vmart",
+      "enabled": false,
+      "priority": 8,
+      "url": "https://stores.vmartretail.com/",
+      "company_name": "Vmart Retail",
+      "brand_name": "Vmart",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select[id='state']",
+		        "city_selector": "select[id='city']",
+		        "locality_selector": "select[id='locality']",
+		        "search_selector": "button[type='submit']",
+		        "data_container_selector": "div.card-deck.mt-3",
+		        "address_selector": "div.card-body.pt-3.px-3.pb-2"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000,
+        "skip_locality_selector": true,
+        "filter_flag": ["locality"]
+      }
+    },
+    
+    {
+      "site_id": "vishal_megamart",
+      "enabled": true,
+      "priority": 9,
+      "url": "https://stores.vishalmegamart.com",
+      "company_name": "Vishal Megamart",
+      "brand_name": "Vishal Megamart",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select[id='state']",
+		        "city_selector": "select[id='city']",
+		        "locality_selector": "select[id='locality']",
+		        "search_selector": "button.btn.mb-3.idx-str-srch-btn.search-button",
+		        "data_container_selector": "div.card-deck.justify-content-center",
+		        "address_selector": "div.card-deck.justify-content-center li >span.store-address-info:nth-child(-n+2)"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000
+      }
+    },
+    {
+      "site_id": "melorra",
+      "enabled": true,
+      "priority": 10,
+      "url": "https://www.melorra.com/store/locator/",
+      "company_name": "Melorra",
+      "brand_name": "Melorra",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "div.container div.selectCityMob",
+		        "state_options_selector": "div input.store_styleRadioButton",
+		        "data_container_selector": "div.store_address_main_div",
+		        "address_selector": "div.store_address_main_div div p.store_cityDesc"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "search_limit": 1,
+        "skip_state_selector":true,
+        "page_load_timeout": 100000
+      }
+    },
+    
+    {
+      "site_id": "maxfashion",
+      "enabled": true,
+      "priority": 11,
+      "status": "in_progress",
+      "url": "https://stores.maxfashion.in/",
+      "company_name": "Landmark Group",
+      "brand_name": "Max Fashion",
+      "country": "India",
+      "selectors": {
+		        "state_selector":"select[id='OutletState']",
+            "city_selector": "select[id='OutletCity']",
+            
+            "search_selector": "div.common-action button.btn",
+            "data_tab_selector":"div.tabs-menu a:nth-of-type(2)",
+            "data_container_selector": "div.outlet-list",
+            "address_selector": "li.outlet-address div.info-text"
+
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    
+    {
+      "site_id": "styleup",
+      "enabled": true,
+      "priority": 12,
+      "url": "https://styleup.in/store-locator",
+      "company_name": "Aditya Birla Fashion and Retail Ltd",
+      "brand_name": "Style Up",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "div[id=state-filter-dropdown-btn]",
+            "state_options_selector": "[id='state-dropdown'] label p",
+
+		        
+		        "search_selector": "button[id='filter-submit-btn']",
+		        "data_container_selector": "div.splide__slide",
+		        "address_selector": "div.splide__slide p.font-regular.store-address.text-start"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "skip_city_selector": true      }
+    },
+    
+    {
+      "site_id": "citykart",
+      "enabled": true,
+      "priority": 13,
+      "url": "https://citykart.co.in/store/",
+      "company_name": "Citykart Retail Private Limited",
+      "brand_name": "City Kart",
+      "country": "India",
+      "selectors": {
+		        "state_selector": "select.jet-select__control.depth-0",
+            "city_selector": "select.jet-select__control.depth-1",
+            "locality_selector": "select.jet-select__control.depth-2",
+		        "search_selector": "button.apply-filters__button",
+		        "data_container_selector": "div.elementor-loop-container.elementor-grid",
+		        "address_selector": "div[data-elementor-type='loop-item']"
+      },
+      "options": {
+		        "cascade_wait_time": 3,
+		        "page_load_timeout": 100000      }
+    },
+    
+    {
+      "site_id": "firstcry",
+      "enabled": true,
+      "priority": 14,
+      "url": "https://www.firstcry.com/store-locator?srsltid=AfmBOoo7XkCEDPOjnU_lQ7EUDAQC2WZEWryxQfQEKRkTmAOYp1928xY2",
+      "company_name": "Brainbees Solutions Limited",
+      "brand_name": "Firstcry",
+      "country": "India",
+      "selectors": {
+            "store_type_selector":"select[name='storetype']",
+		        "state_selector": "select[name='state']",
+		        "city_selector": "select[name='city']",
+		     
+		        "search_selector": "input.btn",
+		        "data_container_selector": "div.address",
+		        "address_selector": "div.p[id='dvaddress']"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000
+        
+      }
+    },
+
+    {
+      "site_id": "style_bazaar",
+      "enabled": true,
+      "priority": 15,
+      "url": "https://stylebaazar.in/store-locator/",
+      "company_name": "Baazar Style Retail Limited",
+      "brand_name": "Style Bazaar",
+      "country": "India",
+      "selectors": {
+              "state_selector": "li.item-state[data-id] a[data-parent='#p-statelist'] span",
+              "data_container_selector": "ul.sl-list[id='p-statelist']",
+              "address_selector": "li.sl-addr span"
+      },
+      "options": {
+        "skip_state_selector": true,
+        "skip_city_selector": true,
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000,
+        "search_limit": 1
+      }
+    },
+    {
+      "site_id": "kalyan_jewellers",
+      "enabled": true,
+      "priority": 16,
+      "url": "https://store.kalyanjewellers.net/india",
+      "company_name": "Kalyan Jewellers India Ltd",
+      "brand_name": "Kalyan Jewellers",
+      "country": "India",
+      "selectors": {
+                "search_selector":"div.text-center.mt-6 button.rounded-lg",
+                "links_selector":"div.addressDiv div.ant-row.css-ut69n1 a",
+                "data_container_selector": "div.secondryAddressCard_address__2pFB1",
+                "address_selector": "p.secondryAddressCard_loclaityAddress__cVgjm.flex.flex-col"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000
+      }
+    },
+    {
+      "site_id": "style_union",
+      "enabled": true,
+      "priority": 17,
+      "url": "https://stores.styleunion.in/",
+      "company_name": "Nexon Omniverse Limited",
+      "brand_name": "Style Union",
+      "country": "India",
+      "selectors": {
+                "state_selector": "[aria-label='States']",
+                "state_options_selector": "[aria-label='States'] .item[data-vss-custom-attr]",
+                "city_selector": "[aria-label='Cities']",
+                "city_options_selector": "[aria-label='Cities'] .item[data-vss-custom-attr]",
+                "data_container_selector": "div.dl-branch-container",
+                "address_selector": "div.branch-info span.branch-wrap span.text",
+                "search_selector":"button.dl-prim-btn"
+      },
+      "options": {
+        "skip_state_selector": false,
+        "skip_city_selector": false,
+        "filter_flag":["city","state"]
+    
+      }
+    },
+    { 
+      "site_id": "Blue_Stone",
+      "enabled": true,
+      "priority": 18,
+      "url": "https://www.bluestone.com/store.html",
+      "company_name": "BlueStones",
+      "brand_name": "BlueStone",
+      "country": "India",
+      "selectors": {
+                "state_selector": "div.store-info ul.side-bar li",
+                "data_container_selector": "div.store-info div.col-xs-9.col-xs-push-1",
+                "address_selector": "div.store-details.col-xs-12 div.col-xs-5"
+               
+      },
+      "options": {
+        "skip_city_selector": true,
+        "search_limit": 1
+        
+    
+      }
+    },
+    { 
+      "site_id": "La_Pinoz",
+      "enabled": true,
+      "priority": 18,
+      "url": "https://lapinozpizza.in/store-locator/mumbai",
+      "company_name": "La Pinoz",
+      "brand_name": "La Pinoz",
+      "country": "India",
+      "selectors": {
+                "state_selector": "div.card.store-left-panel li",
+                "data_container_selector": "div.card-wrap",
+                "address_selector": "div.store-wrap p"
+               
+      },
+      "options": {
+        "skip_city_selector": true
+      }
+    },
+    { 
+      "site_id": "Lalithaa",
+      "enabled": true,
+      "priority": 18,
+      "url": "https://www.lalithaajewellery.com/branches",
+      "company_name": "Lalithaa Jewellery",
+      "brand_name": "Lalithaa",
+      "country": "India",
+      "selectors": {
+                "state_selector": "div.container div button[data-filter]",
+                "data_container_selector": "div.contact-area.section-padding.branc div.row",
+                "address_selector": "div.contact-area.section-padding.branc div.row div.branche"
+               
+      },
+      "options": {
+        "skip_city_selector": true,
+        "search_limit": 1
+      }
+    },
+    { 
+      "site_id": "Intune",
+      "enabled": true,
+      "priority": 20,
+      "url": "https://intunefashion.com/pages/store-locator",
+      "company_name": "K Raheja Corp",
+      "brand_name": "In-tune",
+      "country": "India",
+      "selectors": {
+                "state_selector":  "div.google-map--information--inner collapsible-row",
+                "data_container_selector": "div.google-map--information--inner",
+                "address_selector": "div.collapsible__content.accordion__content.rte"
+               
+      },
+      "options": {
+        "skip_city_selector": true,
+        "search_limit": 1
+        
+    
+      }
+    },
+
+    { 
+      "site_id": "McDonalds_North_and_East_India",
+      "enabled": true,
+      "priority": 21,
+      "url": "https://mcdindia.com/#restaurants",
+      "company_name": "Connaught Plaza Restaurants Private Limited (CPRL)",
+      "brand_name": "McDonalds-North and East India",
+      "country": "India",
+      "selectors": {
+                "state_selector": "div.sub-heading.select-heading h2",
+                "data_container_selector": "div.stores-content-list",
+                "address_selector": "div.location-text.para-text p"
+               
+      },
+      "options": {
+        "skip_city_selector": true,
+        "search_limit": 1
+        
+    
+      }
+    },
+    { 
+      "site_id": "McDonalds_South_and_west_India",
+      "enabled": true,
+      "priority": 21,
+      "url": "https://www.mcdonaldsindia.com/reach-us.html?v=4",
+      "company_name": "Hardcastle Restaurants Private Limited (HRPL)",
+      "brand_name": "McDonalds-South and West India",
+      "country": "India",
+      "selectors": {
+                "links_selector":  "div.india_mp",
+                "data_container_selector": "div.accordion",
+                "address_selector": "li.viewmap.map_menu"
+               
+      },
+      "options": {
+        "skip_city_selector": true,
+        "search_limit": 1
+        
+    
+      }
+    },
+    { 
+      "site_id": "PN_jewellers",
+      "enabled": true,
+      "priority": 21,
+      "url": "https://www.pngjewellers.com/pages/stores",
+      "company_name": "P N Gadgil & Sons Ltd",
+      "brand_name": "P N Gadgil jewellers",
+      "country": "India",
+      "selectors": {
+                    "state_selector":  "select.chose-search-slt.form-control-storeify",
+                    "search_selector":"div.map-tab-mobile-bnt div#sl-tab-list",
+                    "data_container_selector": "div[id='main-slider-storelocator']",
+                    "address_selector": "div.storeify-sl-item-row.address a"
+               
+      },
+      "options": {
+        "skip_city_selector": true,
+        "search_limit": 1,
+        "click_option_before_select":false
+        
+    
+      }
+    },
+    { 
+      "site_id": "Thangamayil",
+      "enabled": true,
+      "priority": 21,
+      "url": "https://www.thangamayil.com/storelocator?srsltid=AfmBOoo_aHrQZVVoVzXGKKLtMC4BaR2L7AwbwmbkYf-Xx1sw41hjtSL8",
+      "company_name": "Thangamayil Jewellery Limited",
+      "brand_name": "Thangamayil",
+      "country": "India",
+      "selectors": {
+                    "state_selector":  "select[id='store']",
+                    "data_container_selector": "div[id='gmap-store-list']",
+                    "address_selector": "div[id='store_address'] p"
+               
+      },
+      "options": {
+         "page_load_timeout": 100000
+      }
+    },
+    { 
+      "site_id": "Giva",
+      "enabled": true,
+      "priority": 21,
+      "url": "https://www.giva.co/pages/store-locator",
+      "company_name": "Indiejewel Fashions Private Limited",
+      "brand_name": "Giva",
+      "country": "India",
+      "selectors": {
+                    "state_selector":  "div.store-address",
+                    "data_container_selector": "div.store-list.scroll-trigger.animate--slide-in",
+                    "address_selector": "div.store-address"
+               
+      },
+      "options": {
+        "search_limit": 1
+       
+      }
+    },
+    { 
+      "site_id": "H&M",
+      "enabled": true,
+      "priority": 26,
+      "url": "https://www2.hm.com/en_in/customer-service/shopping-at-hm/store-locator.html?srsltid=AfmBOoq_tQ00g7W649WD1NW2pG0Gi5t9vGDD_ZARpMCZ-kttFZP5Nz-L",
+      "company_name": "H&M Group",
+      "brand_name": "H&M",
+      "country": "India",
+      "selectors": {
+                "state_selector": "div[data-testid='Locator:storeResult']",
+                "state_options_selector": "div[data-testid='base-input-container']",
+                "data_container_selector": "div[data-testid='Locator:storeResult']",
+                "address_selector": "address.d5583d"
+                     
+      },
+      "options": {
+        "search_limit": 1,
+        "skip_state_selector": true
+      }
+    },
+    { 
+      "site_id": "Asics",
+      "enabled": true,
+      "priority": 27,
+      "url": "https://www.asics.co.in/store-locator",
+      "company_name": "ASICS India Private Limited",
+      "brand_name": "Asics",
+      "country": "India",
+      "selectors": {
+                    "data_container_selector": "div.StoreLocator-leftBar-aeT ul.StoreLocator-stores-5jZ",
+                    "address_selector": "span.StoreLocator-itemContainer-3pH > p:nth-of-type(4)"
+               
+      },
+      "options": {
+        "search_limit": 1       
+      }
+    },
+    {
+      "site_id": "Nike",
+      "enabled": true,
+      "priority": 28,
+      "url": "https://www.nike.com/in/retail/directory/india",
+      "company_name": "Nike India Private Limited",
+      "brand_name": "Nike",
+      "country": "India",
+      "selectors": {
+            "state_selector": "div.ncss-col-sm-12.ncss-col-md-6",
+            "data_container_selector": "article[id='store-directory-state']",
+            "address_selector": "div.body-2.text-color-secondary:nth-of-type(2)"
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    {
+      "site_id": "Decathlon",
+      "enabled": true,
+      "priority": 29,
+      "url": "https://www.decathlon.in/store",
+      "company_name": "Decathlon Sports India Private Limited",
+      "brand_name": "Decathlon",
+      "country": "India",
+      "selectors": {
+            "state_selector": "div.all-store-blk > p.text-blue-400",
+            "data_container_selector": "div.grid.grid-cols-2:nth-of-type(1)",
+            "address_selector": "p.text-grey-600.leading-loose",
+            "back_button_selector":"div.text-16.font-bold p"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000,
+        "click_option_before_select":false      
+      }
+    },
+    {
+      "site_id": "V2",
+      "enabled": true,
+      "priority": 29,
+      "url": "https://v2retail.com/stores/",
+      "company_name": "V2 Retail",
+      "brand_name": "V2",
+      "country": "India",
+      "selectors": {
+            "paginate_selector": "ul.sl-pagination.bootpag li",
+            "next_page_selector": "li.next.sl-page-item a",
+            "data_container_selector": "div.asl-list-cont ul[id='asl-stores-list']",
+            "address_selector": "div.addr-loc ul li span"
+            
+      },
+      "options": {
+        "cascade_wait_time": 3      
+      }
+    },
+    {
+      "site_id": "Puma",
+      "enabled": true,
+      "priority": 31,
+      "url": "https://store-in.puma.com/",
+      "company_name": "Puma Sports India Pvt Ltd",
+      "brand_name": "Puma",
+      "country": "India",
+      "selectors": {
+            "state_selector":"li.input-group [id='OutletState']",
+            "city_selector": "li.input-group [id='OutletCity']",
+            "locality_selector": "li.input-group [id='OutletLocality']",
+            "search_selector": "li.actions button.btn",
+            "data_tab_selector":"div.tabs-menu a:nth-of-type(2)",
+            "data_container_selector": "div.outlet-list",
+            "address_selector": "li.outlet-address div.info-text"
+      },
+      "options": {
+        "cascade_wait_time": 3
+      }
+    },
+    {
+      "site_id": "reliance_smart_bazaar",
+      "enabled": true,
+      "priority": 7,
+      "url": "https://stores.reliancesmartbazaar.com/",
+      "company_name": "Reliance Retail",
+      "brand_name": "Reliance Smart",
+      "country": "India",
+      "selectors": {
+            "data_tab_selector":"div.tabs-menu a:nth-of-type(2)",
+            "state_selector": "select.input[required]",
+            "city_selector": "select.input[name='city']",
+            "locality_selector": "select.input[name='locality']",
+            "search_selector": "li.actions button.btn",
+            "data_container_selector": "div.outlet-list",
+            "address_selector": "div.store-info-box"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "page_load_timeout": 100000
+      }
+    },
+    {
+      "site_id": "Addidas",
+      "enabled": true,
+      "priority": 32,
+      "url": "https://www.adidas.co.in/stores",
+      "company_name": "Adidas India Marketing Private Limited",
+      "brand_name": "Addidas",
+      "country": "India",
+      "selectors": {
+            "input_selector":  "div input[placeholder='Search city, zip, or address']",
+            "search_selector":"button[data-auto-id='cnc-location-button']",
+            "input_type":["City","State","Pincode"],
+            "data_container_selector": "div[data-auto-id='cnc-stores']",
+            "address_selector": "div._store-list-item-name_1a9ex_36 > div:nth-of-type(1) > span"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "search_limit": 1,
+        "suggestion_search_limit":1
+      }
+    },
+    {
+      "site_id": "Sketchers",
+      "enabled": true,
+      "priority": 33,
+      "url": "https://www.skechers.in/store-locator/",
+      "company_name": "Skechers USA, Inc",
+      "brand_name": "Sketchers",
+      "country": "India",
+      "selectors": {
+            "input_selector":  "[name='city'][id='searchInput'][placeholder]",
+            "input_option_selector": "select.form-control.custom-select.radius",
+            "search_selector":  "button.btn.btn-block.btn-primary.btn-storelocator-search[data-action]",
+            "suggested_option_selector":"div.pac-container.pac-logo > div.pac-item",
+            "back_button_selector":"button.btn-clear",
+            "input_type":["City","State","Pincode"],
+            "data_container_selector": "div.mobile-view-global div.results[data-has-results]",
+            "address_selector": "address > p.store-map"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "search_limit": 500,
+        "suggestion_search_limit":1
+
+      }
+    },
+    {
+      "site_id": "Reebok",
+      "enabled": true,
+      "priority": 34,
+      "url": "https://reebok.abfrl.in/storelocator",
+      "company_name": "Aditya Birla Fashion and Retail Limited (ABFRL)",
+      "brand_name": "Reebok",
+      "country": "India",
+      "selectors": {
+            "input_selector":  "div input[placeholder='Enter City/Area']",
+            "input_type":["City","State","Pincode"],
+            "suggested_option_selector":"div[id='googleAddress'] div[role]",
+            "data_container_selector": "div.StoreLocator_locationContainer__IQoGu.null",
+            "address_selector": "div.StoreLocator_storeAddress__59FIl"
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "search_limit": 500
+      }
+    },
+    { 
+      "site_id": "Joylukkas",
+      "enabled": true,
+      "priority": 21,
+      "url": "https://www.joyalukkas.in/store-locator",
+      "company_name": "Joyalukkas Group",
+      "brand_name": "Joylukkas",
+      "country": "India",
+      "selectors": {
+                "input_selector":  "div input[placeholder='Enter Pin Code']",
+                "search_selector": "div.storeLocator-searchButton-vcG",
+                "input_type":["Pincode"],
+                "data_container_selector": "div.storeInfo-root-iZL",
+                "address_selector": "div.storeInfo-root-iZL div.m-4"
+               
+      },
+      "options": {
+        "search_limit": 1000
+        
+      }
+    },
+    {
+      "site_id": "Pantaloons",
+      "enabled": true,
+      "priority": 30,
+      "url": "https://www.pantaloons.com/content/store-locators-9",
+      "company_name": "Aditya Birla Fashion and Retail Ltd",
+      "brand_name": "Pantaloons",
+      "country": "India",
+      "selectors": {
+            "input_selector":  "div input[placeholder='Search by Pincode/City/Area']",
+            "input_type":["Pincode"],
+            "search_selector": "div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-2.MuiGrid-grid-sm-2.css-o0rlmm button",
+            "data_container_selector": "div.MuiCardContent-root",
+            "address_selector": "div.MuiCardContent-root p"
+
+      },
+      "options": {
+        "cascade_wait_time": 3,
+        "search_limit": 1000
+      }
+    },
+    {
+      "site_id": "Zara",
+      "enabled": true,
+      "priority": 35,
+      "url": "https://www.zara.com/in/en/z-stores-st1404.html",
+      "company_name": "Trent Limited",
+      "brand_name": "Zara",
+      "country": "India",
+      "selectors": {
+                  "state_selector":  "span.store-country-accordion__title-text",
+                  "search_selector":"span.store-country-accordion__icon-wrapper",
+                  "data_container_selector": "div.store-seo-list__cities-column",
+                  "address_selector": "div.zds-accordion.store-sub-accordions"
+      },
+      "options": {
+        "cascade_wait_time": 3      
+      }
+    },
+    {
+      "site_id": "uniqlo",
+      "enabled": true,
+      "priority": 17,
+      "url": "https://map.uniqlo.com/in/en/",
+      "company_name": "Fast Retailing",
+      "brand_name": "Uniqlo",
+      "country": "India",
+      "selectors": {
+                "state_selector": "input.fr-ec-max-width-reset",
+                "state_options_selector": "li[role='option'][value] span",
+                "data_container_selector": "ul.fr-ec-collection-list",
+                "address_selector": "div.fr-ec-link-cell__no-padding-wrapper > div h3"
+      },
+ 
+      "options": {
+        "skip_city_selector": true
+      }
+    },
+    {
+      "site_id": "go_colors",
+      "enabled": true,
+      "priority": 17,
+      "url": "https://gocolors.com/apps/s/storelocators",
+      "company_name": "Nexon Omniverse Limited",
+      "brand_name": "Go Colors",
+      "country": "India",
+      "selectors": {
+                "state_selector": "select#store_state",
+                "data_container_selector": "div.storesdetail",
+                "address_selector": "div.storedetails"
+      },
+ 
+      "options": {
+        "skip_city_selector": true
+      }
+    }
+
+  ],
+  
+  "site_groups": {
+    "fashion": ["zudio", "maxfashion", "lifestyle", "styleup"],
+    "retail": ["vmart", "vishal_megamart", "reliance_smart_bazaar", "citykart"],
+    "jewelry": ["pngadgil", "malabar", "melorra"],
+    "food": ["popeyes", "yousta"],
+    "kids": ["firstcry"],
+    "high_priority": ["zudio", "vmart", "lifestyle", "reliance_smart_bazaar"],
+    "ready_to_deploy": ["zudio", "yousta", "pngadgil", "popeyes", "malabar", "lifestyle", "vmart", "vishal_megamart", "styleup", "citykart"],
+    "in_progress": ["melorra", "maxfashion"],
+    "disabled": ["firstcry"],
+    "all": ["zudio", "yousta", "pngadgil", "popeyes", "malabar", "lifestyle", "reliance_smart_bazaar", "vmart", "vishal_megamart", "melorra", "maxfashion", "styleup", "citykart", "firstcry"]
+  },
+  "extractor_mappings": {
+  }
+}

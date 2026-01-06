@@ -1,0 +1,23 @@
+{
+  "id": "zBcZEOv7D6QpXgr",
+  "unique_key": "https://www.apollopharmacy.in/medical-stores",
+  "order_no": null,
+  "handled_at": "2026-01-06 09:54:05.448961+00:00",
+  "request": {
+    "url": "https://www.apollopharmacy.in/medical-stores",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.apollopharmacy.in/medical-stores",
+    "handled_at": "2026-01-06 09:54:05.448961+00:00",
+    "unique_key": "https://www.apollopharmacy.in/medical-stores",
+    "id": "zBcZEOv7D6QpXgr"
+  }
+}

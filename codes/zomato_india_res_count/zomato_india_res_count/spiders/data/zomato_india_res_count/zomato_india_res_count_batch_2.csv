@@ -1,0 +1,2002 @@
+Country,City,Area,Area_Clean,Count,Relevant_Week,Relevant_Date,Runtime
+India,Kasganj,Kasganj,Kasganj,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hathras,Hathras,Hathras,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hapur,Hapur,Hapur,124,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Etah,Etah,Etah,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Baghpat,Baghpat,Baghpat,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Namakkal,Namakkal,Namakkal,107,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hanumangarh,Hanumangarh,Hanumangarh,83,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Samrala,Samrala,Samrala,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Phillaur,Phillaur,Phillaur,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nakodar,Nakodar,Nakodar,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jagraon,Jagraon,Jagraon,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Fazilka,Fazilka,Fazilka,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Samba,Samba,Samba,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kathua,Kathua,Kathua,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Phaltan,Phaltan,Phaltan,74,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pandharpur,Pandharpur,Pandharpur,88,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Osmanabad,Osmanabad,Osmanabad,105,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manmad,Manmad,Manmad,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Malegaon,Malegaon,Malegaon,111,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karad,Karad,Karad,245,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chalisgaon,Chalisgaon,Chalisgaon,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhusawal,Bhusawal,Bhusawal,173,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Barshi,Barshi,Barshi,84,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amalner,Amalner,Amalner,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vidisha,Vidisha,Vidisha,77,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Singrauli,Singrauli,Singrauli,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Singrauli,Waidhan,Waidhan,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Seoni,Seoni,Seoni,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sehore,Sehore,Sehore,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Khargone,Khargone,Khargone,61,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Itarsi,Itarsi,Itarsi,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dhar,Dhar,Dhar,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Damoh,Damoh,Damoh,70,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chhatarpur,Chhatarpur,Chhatarpur,85,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gudivada,Gudivada,Gudivada,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chirala,Chirala,Chirala,35,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Burhanpur,Burhanpur,Burhanpur,57,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bina,Bina,Bina,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sultanpur,Sultanpur,Sultanpur,61,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sitapur,Sitapur,Sitapur,99,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thodupuzha,Thodupuzha,Thodupuzha,61,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pathanamthitta,Pathanamthitta,Pathanamthitta,78,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bobbili,Bobbili,Bobbili,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Adoni,Adoni,Adoni,67,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanuku,Tanuku,Tanuku,98,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kasaragod,Kasaragod,Kasaragod,29,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Beawar,Beawar,Beawar,83,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chapra,Chhapra,Chhapra,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Behror,Behror,Behror,70,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Begusarai,Begusarai,Begusarai,95,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bundi,Bundi,Bundi,80,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nathdwara,Nathdwara,Nathdwara,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raniganj,Raniganj,Raniganj,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amreli,Amreli,Amreli,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ramgarh,Ramgarh,Ramgarh,74,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jagdalpur,Jagdalpur,Jagdalpur,107,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hazaribagh,Hazaribagh,Hazaribagh,136,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muvattupuzha,Muvattupuzha,Muvattupuzha,83,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Modinagar,Modinagar,Modinagar,191,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Modinagar,Muradnagar,Muradnagar,79,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bahadurgarh,Bahadurgarh,Bahadurgarh,240,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ambikapur,Ambikapur,Ambikapur,88,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Faizabad-Ayodhya ,Faizabad-Ayodhya,Faizabad-Ayodhya,201,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chitradurga,Chitradurga,Chitradurga,90,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bidar,Bidar,Bidar,96,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hosur,Hosur,Hosur,240,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sangamner,Sangamner,Sangamner,139,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sohna,Sohna,Sohna,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Narnaul,Narnaul,Narnaul,81,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhajjar,Jhajjar,Jhajjar,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ichalkaranji,Ichalkaranji,Ichalkaranji,214,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Charkhi Dadri,Charkhi Dadri,Charkhi Dadri,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalna,Jalna,Jalna,197,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kundapura-Koteshwar,Kundapura-Koteshwar,Kundapura-Koteshwar,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Farrukhabad,Farrukhabad,Farrukhabad,89,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Farrukhabad,Fatehgarh,Fatehgarh,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Moodbidri,Moodbidri,Moodbidri,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karwar,Karwar,Karwar,63,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Baddi,Baddi,Baddi,90,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Baddi,Shivalik Nagar,Shivalik Nagar,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Baddi,Nalagarh,Nalagarh,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ambur,Ambur,Ambur,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rudrapur,Rudrapur,Rudrapur,201,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Porbandar,Porbandar,Porbandar,107,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhunjhunu,Jhunjhunu,Jhunjhunu,110,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Churu,Churu,Churu,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sikar,Sikar,Sikar,320,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hoshangabad,Hoshangabad,Hoshangabad,80,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hampi-Hospet,Hampi-Hospet,Hampi-Hospet,90,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Faridkot,Faridkot,Faridkot,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Khanna,Khanna,Khanna,144,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Khanna,Mandi Gobindgarh,Mandi Gobindgarh,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Abohar,Abohar,Abohar,149,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kaithal,Kaithal,Kaithal,160,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Purnea,Purnea,Purnea,244,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Deoghar,Deoghar,Deoghar,159,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palwal,Palwal,Palwal,123,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chikmagalur,Chikmagalur,Chikmagalur,95,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kottayam,Kottayam,Kottayam,302,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kottayam,Pala,Pala,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Firozabad,Firozabad,Firozabad,123,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shahjahanpur,Shahjahanpur,Shahjahanpur,192,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nadiad,Nadiad,Nadiad,174,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Unnao,Unnao,Unnao,160,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hassan,Hassan,Hassan,134,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhatkal,Bhatkal,Bhatkal,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Narasaraopet,Narasaraopet,Narasaraopet,76,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shivpuri,Shivpuri,Shivpuri,64,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mehsana,Mehsana,Mehsana,225,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mehsana,Visanagar,Visanagar,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bulandshahr,Bulandshahr,Bulandshahr,111,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Yavatmal,Yavatmal,Yavatmal,129,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tumkur,Tumkur,Tumkur,190,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tezpur,Tezpur,Tezpur,121,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Suryapet,Suryapet,Suryapet,56,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Silchar,Silchar,Silchar,78,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sambalpur,Sambalpur,Sambalpur,222,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sambalpur,Bargarh,Bargarh,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rewari,Rewari,Rewari,267,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rampur,Rampur,Rampur,123,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajnandgaon,Rajnandgaon,Rajnandgaon,113,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raichur,Raichur,Raichur,103,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pudukkottai,Pudukkottai,Pudukkottai,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pithampur,Pithampur,Pithampur,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Parbhani,Parbhani,Parbhani,126,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pali,Pali,Pali,139,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Neemuch,Neemuch,Neemuch,106,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nandyal,Nandyal,Nandyal,136,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muzaffarpur,Muzaffarpur,Muzaffarpur,311,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Morena,Morena,Morena,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Moga,Moga,Moga,126,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mandsaur,Mandsaur,Mandsaur,117,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Machilipatnam,Machilipatnam,Machilipatnam,73,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolar,Kolar,Kolar,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dibrugarh,Dibrugarh,Dibrugarh,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharmavaram,Dharmavaram,Dharmavaram,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Darbhanga,Darbhanga,Darbhanga,192,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Cuddalore,Cuddalore,Cuddalore,76,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chandrapur,Chandrapur,Chandrapur,246,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bijnor,Bijnor,Bijnor,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhiwani,Bhiwani,Bhiwani,122,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Berhampur,Berhampur,Berhampur,209,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Barabanki,Barabanki,Barabanki,139,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Balasore,Balasore,Balasore,191,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Baramati,Baramati,Baramati,197,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Wardha,Wardha,Wardha,176,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pathankot,Pathankot,Pathankot,248,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nizamabad,Nizamabad,Nizamabad,259,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nizamabad,Armoor,Armoor,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Khammam,Khammam,Khammam,266,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kapurthala,Kapurthala,Kapurthala,134,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raigarh,Raigarh,Raigarh,100,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sirsa,Sirsa,Sirsa,247,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bijapur,Bijapur,Bijapur,176,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gurdaspur,Gurdaspur,Gurdaspur,117,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Barnala,Barnala,Barnala,104,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajpura,Rajpura,Rajpura,117,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajpura,Banur,Banur,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhuj,Bhuj,Bhuj,179,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rewa,Rewa,Rewa,183,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jorhat,Jorhat,Jorhat,191,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chittoor,Chittoor,Chittoor,99,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kollam,Kollam,Kollam,362,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kollam,Varkala,Varkala,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kollam,Chathanoor,Chathanoor,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ongole,Ongole,Ongole,199,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruvannamalai,Tiruvannamalai,Tiruvannamalai,66,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thoothukudi,Thoothukudi,Thoothukudi,167,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Krishnagiri,Krishnagiri,Krishnagiri,53,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kumbakonam,Kumbakonam,Kumbakonam,106,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhimavaram,Bhimavaram,Bhimavaram,123,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nagercoil,Nagercoil,Nagercoil,196,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dindigul,Dindigul,Dindigul,209,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sri Ganganagar,Sri Ganganagar,Sri Ganganagar,277,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirunelveli,Tirunelveli,Tirunelveli,344,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karaikudi,Karaikudi,Karaikudi,174,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karaikudi,Devakottai,Devakottai,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhiwadi,Bhiwadi,Bhiwadi,216,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Korba,Korba,Korba,211,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guna,Guna,Guna,95,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karimnagar,Karimnagar,Karimnagar,266,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gandhidham,Gandhidham,Gandhidham,314,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bharatpur,Bharatpur,Bharatpur,141,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bharatpur,Sewar,Sewar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chhindwara,Chhindwara,Chhindwara,132,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Srikakulam,Srikakulam,Srikakulam,123,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tuni,Tuni,Tuni,67,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Batala,Batala,Batala,96,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hoshiarpur,Hoshiarpur,Hoshiarpur,215,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Phagwara,Phagwara,Phagwara,329,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Khandwa,Khandwa,Khandwa,81,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dewas,Dewas,Dewas,157,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vapi,Vapi,Vapi,249,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vapi,Daman,Daman,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Valsad,Valsad,Valsad,200,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Navsari,Navsari,Navsari,265,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nagaon,Nagaon,Nagaon,100,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tadepalligudem,Tadepalligudem,Tadepalligudem,75,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Eluru,Eluru,Eluru,161,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vizianagaram,Vizianagaram,Vizianagaram,196,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kadapa,Kadapa,Kadapa,247,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ratnagiri,Ratnagiri,Ratnagiri,120,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Katni,Katni,Katni,128,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Latur,Latur,Latur,440,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Akola,Akola,Akola,309,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Satara,Satara,Satara,356,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sangli,Sangli,Sangli,538,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sangli,Jaysingpur,Jaysingpur,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dhule,Dhule,Dhule,236,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bharuch,Bharuch,Bharuch,337,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Satna,Satna,Satna,182,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sagar,Sagar,Sagar,235,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ratlam,Ratlam,Ratlam,192,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bardhaman,Bardhaman,Bardhaman,193,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Asansol,Asansol,Asansol,223,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Roorkee,Roorkee,Roorkee,295,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Haldwani,Haldwani,Haldwani,667,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raebareli,Raebareli,Raebareli,134,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Chittorgarh,Chittorgarh,Chittorgarh,125,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhilwara,Bhilwara,Bhilwara,329,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sangrur,Sangrur,Sangrur,154,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sangrur,Sunam,Sunam,47,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sangrur,Bhawanigarh,Bhawanigarh,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Firozpur,Firozpur,Firozpur,148,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Solan,Solan,Solan,208,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Yamuna Nagar,Yamuna Nagar,Yamuna Nagar,362,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rohtak,Rohtak,Rohtak,451,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kurukshetra,Kurukshetra,Kurukshetra,326,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kurukshetra,Ladwa,Ladwa,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gaya,Gaya,Gaya,346,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhagalpur,Bhagalpur,Bhagalpur,338,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhagalpur,Nathnagar,Nathnagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kanchipuram,Kanchipuram,Kanchipuram,102,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shimoga,Shimoga,Shimoga,177,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gulbarga,Gulbarga,Gulbarga,309,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajahmundry,Rajahmundry,Rajahmundry,400,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kakinada,Kakinada,Kakinada,332,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ambala,Ambala,Ambala,946,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Sonipat,Sonipat,Sonipat,298,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Solapur,Solapur,Solapur,793,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nellore,Nellore,Nellore,557,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nanded,Nanded,Nanded,434,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,229,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Moradabad,Moradabad,Moradabad,504,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mathura,Mathura,Mathura,417,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kurnool,Kurnool,Kurnool,415,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalgaon,Jalgaon,Jalgaon,400,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hisar,Hisar,Hisar,431,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durgapur,Durgapur,Durgapur,312,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dhanbad,Dhanbad,Dhanbad,499,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dhanbad,Govindpur,Govindpur,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dhanbad,Bhuli,Bhuli,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dhanbad,Katras,Katras,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Davanagere,Davanagere,Davanagere,193,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bokaro,Bokaro,Bokaro,228,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bhavnagar,Bhavnagar,Bhavnagar,264,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bellary,Bellary,Bellary,131,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Belgaum,Belgaum,Belgaum,600,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anantapur,Anantapur,Anantapur,432,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anantapur,Tadipatri,Tadipatri,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alwar,Alwar,Alwar,336,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Aligarh,Aligarh,Aligarh,401,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ahmednagar,Ahmednagar,Ahmednagar,464,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muktsar,Shree Muktsar Sahib,Shree Muktsar Sahib,93,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muktsar,Narang Colony,Narang Colony,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muktsar,Bhullar Colony,Bhullar Colony,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Muktsar,New Grain Market,New Grain Market,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Vidya Nagar,Vidya Nagar,232,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,New Hubli,New Hubli,144,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Keshwapur,Keshwapur,99,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Rajendra Nagar,Rajendra Nagar,81,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Old Hubli,Old Hubli,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Navanagar,Navanagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Bhairidevakoppa Dargha,Bhairidevakoppa Dargha,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Hubli,Chalukya Nagar,Chalukya Nagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Maratha Colony,Maratha Colony,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Saptapur,Saptapur,53,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Vidyagiri,Vidyagiri,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Malmaddi,Malmaddi,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Narayanpura,Narayanpura,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Sattur,Sattur,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Hosayellapur,Hosayellapur,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Shriram Nagar,Shriram Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharwad,Police Head Quarters,Police Head Quarters,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Hanamakonda,Hanamakonda,406,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Girmajipet,Girmajipet,68,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Kothawada,Kothawada,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Shiva Nagar,Shiva Nagar,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Mathwada,Mathwada,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Deshaipet,Deshaipet,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Ramannapet,Ramannapet,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Rangashaipet,Rangashaipet,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Warangal,Lb Nagar,Lb Nagar,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Kumar Nagar,Kumar Nagar,117,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Valliammai Nagar,Valliammai Nagar,98,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Velampalayam,Velampalayam,92,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Valipalayam,Valipalayam,67,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Karuvampalayam,Karuvampalayam,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Rayapuram,Rayapuram,46,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Veerapandi,Veerapandi,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Pitchampalayam Pudur,Pitchampalayam Pudur,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Laxmi Nagar,Laxmi Nagar,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,K Chettipalayam,K Chettipalayam,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Bavani Nagar,Bavani Nagar,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Mannarai,Mannarai,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Ms Nagar,Ms Nagar,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tiruppur,Pandiyan Nagar,Pandiyan Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,South Rampart,South Rampart,47,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Eiswari Nagar,Eiswari Nagar,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Annai Sathya Nagar,Annai Sathya Nagar,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Avp Azhagammal Nagar,Avp Azhagammal Nagar,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Maharnonbu Chavadi,Maharnonbu Chavadi,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Anna Nagar,Anna Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Ramani Nagar,Ramani Nagar,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Sundaram Pillai Nagar,Sundaram Pillai Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tanjore,Sundram Nagar,Sundram Nagar,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Silvassa,Bavisa Faliya,Bavisa Faliya,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Silvassa,Samarvarni,Samarvarni,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Silvassa,Amli Ind Estate,Amli Ind Estate,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Silvassa,Danudyog Industrial Estate,Danudyog Industrial Estate,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shillong,Police Bazaar,Police Bazaar,49,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shillong,Laitumkhrah,Laitumkhrah,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shillong,Golf Links,Golf Links,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shillong,Nongrimbrah,Nongrimbrah,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Subhash Nagar,Subhash Nagar,72,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Chander Nagar,Chander Nagar,62,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Haqikatnagar,Haqikatnagar,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Ram Nagar,Ram Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Railway Colony,Railway Colony,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Khatakeri,Khatakeri,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Numaish Camp,Numaish Camp,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Khalasi Lines,Khalasi Lines,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Nawabganj,Nawabganj,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Khan Alampura,Khan Alampura,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Patel Nagar,Patel Nagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Saharanpur,Jwala Nagar,Jwala Nagar,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Raghunathpali,Raghunathpali,56,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Raurkela Industrialship,Raurkela Industrialship,47,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Railway Colony,Railway Colony,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Chhend Colony,Chhend Colony,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Koel Nagar,Koel Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Udit Nagar,Udit Nagar,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Sector 6,Sector 6,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rourkela,Basanti Nagar,Basanti Nagar,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,Model Town,Model Town,108,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,New Hb Colony,New Hb Colony,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,Huda Sector 25,Huda Sector 25,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,Tehsil Camp,Tehsil Camp,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,Old Hb Colony,Old Hb Colony,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,Mahrana,Mahrana,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,"Huda Sector 13,17,18","Huda Sector 13,17,18",27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Panipat,Krishanpura,Krishanpura,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mount Abu,Nakki Lake,Nakki Lake,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mount Abu,Machgaon,Machgaon,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kohima,Midland Colony,Midland Colony,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Iit Kharagpur,Iit Kharagpur,77,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Medinipur,Medinipur,68,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Inda,Inda,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Malancha,Malancha,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Bidhanpally,Bidhanpally,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,New Settlement,New Settlement,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Kharagpur Rly Settlement,Kharagpur Rly Settlement,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kharagpur,Talbagicha,Talbagicha,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Sector 13,Sector 13,68,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Sector 14,Sector 14,57,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Model Town,Model Town,46,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Dyal Singh Colony,Dyal Singh Colony,46,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Sector 7,Sector 7,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Ramesh Nagar,Ramesh Nagar,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Alpha International City,Alpha International City,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Sector 9,Sector 9,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Ram Nagar,Ram Nagar,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Kheri Naru,Kheri Naru,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Ansal Town,Ansal Town,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Sector 33,Sector 33,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Karnal,Sector 3,Sector 3,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Civil Lines,Civil Lines,171,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Sipri Bazaar,Sipri Bazaar,113,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Cantt,Cantt,86,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Purana Sahar,Purana Sahar,64,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Shivaji Nagar,Shivaji Nagar,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Indrapuri,Indrapuri,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Bundelkhand University,Bundelkhand University,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Rajghat Colony,Rajghat Colony,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Hansari,Hansari,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Ansal Colony,Ansal Colony,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Nagra,Nagra,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Jhokan Bagh,Jhokan Bagh,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jhansi,Bijauli Industrial Area,Bijauli Industrial Area,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Imphal,Thangal Bazaar,Thangal Bazaar,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Imphal,Keishamthong,Keishamthong,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Imphal,Chingmeirong,Chingmeirong,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Imphal,Kangla,Kangla,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Imphal,Chingamikha,Chingamikha,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Tiruchengode,Tiruchengode,77,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Erode Fort,Erode Fort,74,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Palayapalayam,Palayapalayam,67,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Perundurai,Perundurai,65,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Bhavani,Bhavani,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Edayankattuvalasu,Edayankattuvalasu,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Periyar Nagar,Periyar Nagar,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Kollampalayam,Kollampalayam,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Asokapuram,Asokapuram,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Thindal,Thindal,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Karungalpalayam,Karungalpalayam,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Rn Pudur,Rn Pudur,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Chettipalayam,Chettipalayam,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Veerappampalayam,Veerappampalayam,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Erode,Ngo Colony,Ngo Colony,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Diu,Fort Road,Fort Road,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Diu,Patelwadi,Patelwadi,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Rani Bazaar,Rani Bazaar,67,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Cantonment,Cantonment,60,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Old Bikaner,Old Bikaner,55,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Sadul Ganj,Sadul Ganj,55,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Bikaner Fort,Bikaner Fort,46,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Vallabh Garden,Vallabh Garden,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Mukta Prasad Nagar,Mukta Prasad Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Samta Nagar,Samta Nagar,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Gangashahar,Gangashahar,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Karni Colony,Karni Colony,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Tilak Nagar,Tilak Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bikaner,Murlidhar Vyas Colony,Murlidhar Vyas Colony,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Nehru Nagar,Nehru Nagar,304,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Durg,Durg,143,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Bhilai Nagar Township,Bhilai Nagar Township,116,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Supela,Supela,106,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Risali,Risali,79,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Kohka,Kohka,77,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Janjgiri,Janjgiri,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Light Industrial Area,Light Industrial Area,34,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Durg Bhilai,Charoda,Charoda,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,100Ft Road,100Ft Road,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Gt Road,Gt Road,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Batinda,Batinda,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Ajit Road,Ajit Road,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Bibi Wala Road,Bibi Wala Road,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Model Town,Model Town,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Mall Road,Mall Road,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Bhucho Khurd,Bhucho Khurd,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Rampura Phul,Rampura Phul,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Dhobi Bazar,Dhobi Bazar,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Civil Lines,Civil Lines,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Amrik Singh Road,Amrik Singh Road,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Baba Farid Nagar,Baba Farid Nagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Housefeed Colony,Housefeed Colony,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Old City,Old City,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Partap Nagar,Partap Nagar,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Mehna Chowk,Mehna Chowk,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bathinda,Parasram Nagar,Parasram Nagar,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Model Town,Model Town,177,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Subhash Nagar Colony,Subhash Nagar Colony,71,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Civil Lines,Civil Lines,68,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Izatnagar,Izatnagar,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Mahanagar Colony,Mahanagar Colony,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Nawada,Nawada,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Green Park Colony,Green Park Colony,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Qureshi Nagar,Qureshi Nagar,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Suresh Sharma Nagar,Suresh Sharma Nagar,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Gangapur,Gangapur,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Gulab Nagar,Gulab Nagar,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Rampur Garden,Rampur Garden,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Cb Ganj,Cb Ganj,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Prem Nagar,Prem Nagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,North City Extension,North City Extension,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bareilly,Airport Area,Airport Area,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Vallabh Vidyanagar,Vallabh Vidyanagar,305,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Gamdi,Gamdi,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Vivekanad Wadi,Vivekanad Wadi,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Rajodpura,Rajodpura,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Gidc,Gidc,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Nanikhodiyar,Nanikhodiyar,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Popati Nagar,Popati Nagar,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Jitodia,Jitodia,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Karamsad,Karamsad,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Anand,Purushottam Nagar,Purushottam Nagar,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Aizawl,Chatlang,Chatlang,65,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Aizawl,Khatla,Khatla,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Krishna Nagar,Krishna Nagar,95,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Dhaleswar,Dhaleswar,59,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Jay Nagar,Jay Nagar,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Ram Nagar,Ram Nagar,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Udaipur,Udaipur,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Indranagar,Indranagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,79 Tilla,79 Tilla,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Hapania,Hapania,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Nutan Nagar,Nutan Nagar,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Pratapgarh,Pratapgarh,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Agartala,Badharghat,Badharghat,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Lakshmipuram,Lakshmipuram,129,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Brodipet,Brodipet,115,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Tenali,Tenali,76,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Old Guntur,Old Guntur,71,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Amaravathi Road,Amaravathi Road,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Srinivasa Nagar Colony,Srinivasa Nagar Colony,50,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Srinivasarao Pet,Srinivasarao Pet,35,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Gorantla,Gorantla,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,At Agraharam,At Agraharam,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Agatha Varappadu,Agatha Varappadu,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Guntur,Sitaram Nagar,Sitaram Nagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Bistupur,Bistupur,293,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Sakchi,Sakchi,207,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Mango,Mango,146,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Sonari,Sonari,88,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Gamharia,Gamharia,51,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Golmuri,Golmuri,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Telco Colony,Telco Colony,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Birsanagar,Birsanagar,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Burma Mines,Burma Mines,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Adityapur,Adityapur,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Ghatshila,Ghatshila,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Chandil,Chandil,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamshedpur,Govindpur,Govindpur,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Lashkar,Lashkar,239,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,City Center,City Center,184,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Deen Dayal Nagar,Deen Dayal Nagar,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Morar,Morar,73,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Shinde Ki Chhawani,Shinde Ki Chhawani,60,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Thatipur,Thatipur,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Vinay Nagar,Vinay Nagar,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Naya Bazaar,Naya Bazaar,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Birla Nagar,Birla Nagar,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Madhav Ganj,Madhav Ganj,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Anand Nagar,Anand Nagar,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Mahalgaon,Mahalgaon,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Gulmohar City,Gulmohar City,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Prasad Nagar,Prasad Nagar,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Ghosipura,Ghosipura,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Lohamandi,Lohamandi,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Model Town,Model Town,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gwalior,Vijaynagar,Vijaynagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Napier Town,Napier Town,149,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Vijay Nagar,Vijay Nagar,122,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Wright Town,Wright Town,85,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Civil Lines,Civil Lines,64,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Cantt,Cantt,62,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Rampur,Rampur,60,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Hathital,Hathital,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Garha,Garha,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Adhartal,Adhartal,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Ganjipura,Ganjipura,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Cod Area,Cod Area,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Shastri Nagar,Shastri Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Lordganj,Lordganj,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Gohalpur,Gohalpur,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Karmeta,Karmeta,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Dhanvantari Nagar,Dhanvantari Nagar,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Shakti Nagar,Shakti Nagar,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Ghamapur,Ghamapur,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Mahrajpur,Mahrajpur,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Chandmari,Chandmari,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jabalpur,Khamaria,Khamaria,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Ambapeth,Ambapeth,154,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Maltekedi,Maltekedi,151,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Navsaari,Navsaari,71,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Dastur Nagar,Dastur Nagar,64,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Sai Nagar,Sai Nagar,56,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Arjun Nagar,Arjun Nagar,29,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Sharda Vihar,Sharda Vihar,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Yogiraj Nagar,Yogiraj Nagar,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Gopal Nagar,Gopal Nagar,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Hazrat Bilal Nagar,Hazrat Bilal Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Siddhivinayak Nagar,Siddhivinayak Nagar,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Nai Basti,Nai Basti,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Juni Basti,Juni Basti,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Transport Nagar,Transport Nagar,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Amravati,Guruchhaya Colony,Guruchhaya Colony,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Mangalwar Peth,Mangalwar Peth,141,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Tarabhai Park,Tarabhai Park,128,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Rajarampuri,Rajarampuri,118,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Shahupuri,Shahupuri,104,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Ruikar Colony,Ruikar Colony,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Shivaji Udyam Nagar,Shivaji Udyam Nagar,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Kasaba Bawada,Kasaba Bawada,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Vidya Nagar,Vidya Nagar,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Sarnobatwadi,Sarnobatwadi,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Hari Om Nagar,Hari Om Nagar,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Kalamba,Kalamba,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Pratibha Nagar,Pratibha Nagar,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Ratnappa Kumbhar Nagar,Ratnappa Kumbhar Nagar,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Deokar Panand,Deokar Panand,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Salokhe Nagar,Salokhe Nagar,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Phulewadi,Phulewadi,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Line Bazaar,Line Bazaar,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Shahu Market Yard,Shahu Market Yard,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kolhapur,Tapowan,Tapowan,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Model Town,Model Town,157,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Urban Estate,Urban Estate,113,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Lahori Gate,Lahori Gate,90,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Tripuri,Tripuri,83,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Nabha,Nabha,64,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Adalat Bazaar,Adalat Bazaar,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Prem Nagar,Prem Nagar,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,New Officers Colony,New Officers Colony,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Nabha Gate,Nabha Gate,35,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Abchal Nagar,Abchal Nagar,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Gurbax Colony,Gurbax Colony,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Ranjit Nagar,Ranjit Nagar,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Patiala Cantt,Patiala Cantt,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Patiala,Sanaur,Sanaur,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Thillai Nagar,Thillai Nagar,158,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Cantonment,Cantonment,135,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Kk Nagar,Kk Nagar,99,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Kattur,Kattur,91,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Woraiyur,Woraiyur,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Main Guard Gate,Main Guard Gate,80,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Srirangam,Srirangam,71,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Tvs Tolgate,Tvs Tolgate,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Allithurai,Allithurai,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Karumandapam,Karumandapam,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Ariyamangalam Area,Ariyamangalam Area,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Trichy,Kamaraj Nagar,Kamaraj Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Alagapuram Pudur,Alagapuram Pudur,218,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Suramangalam,Suramangalam,105,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Shevapet,Shevapet,66,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Rasipuram,Rasipuram,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Narasothipatti,Narasothipatti,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Gugai,Gugai,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Ammapet,Ammapet,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Seelanaickenpatti,Seelanaickenpatti,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Kitchipalayam,Kitchipalayam,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Periyakollappatty,Periyakollappatty,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Ariyanur,Ariyanur,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Kondalampatti,Kondalampatti,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Gorimedu,Gorimedu,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Kannankurichi,Kannankurichi,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Salem,Vellakalpatti,Vellakalpatti,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Katpadi,Katpadi,103,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Ranipet,Ranipet,76,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Thottapalayam,Thottapalayam,59,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Kosapet,Kosapet,56,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Gandhi Nagar,Gandhi Nagar,54,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Saidapet,Saidapet,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Sathuvachari,Sathuvachari,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Rv Nagar,Rv Nagar,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Bagayam,Bagayam,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Rn Palayam,Rn Palayam,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vellore,Thorapadi,Thorapadi,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Meerut Cantt,Meerut Cantt,302,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Shastri Nagar,Shastri Nagar,298,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Pallavpuram,Pallavpuram,148,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Devpuri,Devpuri,118,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Partapur,Partapur,113,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Madhavpuram,Madhavpuram,104,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Mohkam Pur,Mohkam Pur,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Sadar Bazaar,Sadar Bazaar,85,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Ganga Nagar,Ganga Nagar,84,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Mohan Puri,Mohan Puri,76,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Fazalpur,Fazalpur,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Sofipur,Sofipur,34,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Thapar Nagar,Thapar Nagar,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Mda,Mda,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Subhash Nagar,Subhash Nagar,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Meerut,Lohia Nagar,Lohia Nagar,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nainital,Sherwani,Sherwani,139,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nainital,Mall Road,Mall Road,67,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nainital,Tallital,Tallital,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Nainital,Ayarpatta,Ayarpatta,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Pradhan Nagar,Pradhan Nagar,218,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Khalpara,Khalpara,212,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Bankim Nagar,Bankim Nagar,188,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Janta Nagar,Janta Nagar,147,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Patiram Jote,Patiram Jote,126,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Subhas Pally,Subhas Pally,79,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Champasari,Champasari,50,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Haidar Para,Haidar Para,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Saktigarh,Saktigarh,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Nayapara,Nayapara,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Dabgram,Dabgram,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Siliguri,Ghogomali,Ghogomali,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Itanagar,E Sector,E Sector,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Itanagar,C Sector,C Sector,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Telipara,Telipara,127,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Narmada Nagar,Narmada Nagar,66,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Agyay Nagar,Agyay Nagar,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Sarkanda,Sarkanda,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Tikrapara,Tikrapara,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Masanganj,Masanganj,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Rajkishor Nagar,Rajkishor Nagar,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Tifra,Tifra,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Gole Bazaar,Gole Bazaar,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Tarbahar Chowk,Tarbahar Chowk,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Jarahbhata,Jarahbhata,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Bilaspur,Lingiadih,Lingiadih,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Darjeeling,Chauk Bazaar,Chauk Bazaar,68,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Darjeeling,Limbugaon,Limbugaon,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Darjeeling,Lebong,Lebong,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Tirumala,Tirumala,140,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Tata Nagar,Tata Nagar,95,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Korlagunta,Korlagunta,40,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Srinivasa Nagar,Srinivasa Nagar,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Sri Padmavati Mahila...,Sri Padmavati Mahila...,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Korramenugunta,Korramenugunta,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Mangalam,Mangalam,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Vidyut Nagar,Vidyut Nagar,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Tirupati,Tiruchanur,Tiruchanur,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Talav Gate,Talav Gate,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Moti Palace Township,Moti Palace Township,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Monalisa Township,Monalisa Township,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Dolatpara,Dolatpara,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Shashikunj,Shashikunj,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Joshipura,Joshipura,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Mullawada,Mullawada,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Adarsh Nagar,Adarsh Nagar,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Junagadh,Gandhi Gram,Gandhi Gram,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Patel Colony,Patel Colony,142,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Khodiyar Colony,Khodiyar Colony,78,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Jamnagar,Jamnagar,74,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Green City,Green City,49,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Satyam Colony,Satyam Colony,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Defence Colony,Defence Colony,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jamnagar,Gulab Nagar,Gulab Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Puri,Dolamandap Sahi,Dolamandap Sahi,66,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Puri,Baliapanda Housing Board Colony,Baliapanda Housing Board Colony,60,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Puri,Penthakata,Penthakata,50,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Puri,Balagandi,Balagandi,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Puri,Purussottam Nagar,Purussottam Nagar,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Puri,Badasankha,Badasankha,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kodaikanal,Kodaikanal Lake,Kodaikanal Lake,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kodaikanal,Annanagar,Annanagar,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jaisalmer,Amar Sagar Pol,Amar Sagar Pol,49,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jaisalmer,Ram Kund,Ram Kund,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jaisalmer,Malka Pol,Malka Pol,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Pawapuri Colony,Pawapuri Colony,189,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Sethi Nagar,Sethi Nagar,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Malipura,Malipura,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Rishi Nagar,Rishi Nagar,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Mahanada Nagar,Mahanada Nagar,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Jabsinghpura,Jabsinghpura,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Sirsagar,Sirsagar,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ujjain,Kajipura,Kajipura,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shirdi,Sai Nagar,Sai Nagar,108,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shirdi,Shiv Nagar,Shiv Nagar,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shirdi,Govind Nagar,Govind Nagar,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Shirdi,Sita Nagar,Sita Nagar,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Vidyut Nagar,Vidyut Nagar,84,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Nurani,Nurani,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Kalmandapam,Kalmandapam,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Olavakode,Olavakode,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Tippusulthan Nagar,Tippusulthan Nagar,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Puthuppariyaram,Puthuppariyaram,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Chandranagar Colony,Chandranagar Colony,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Thirunellayi,Thirunellayi,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Palakkad,Kanjikode,Kanjikode,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Golghar,Golghar,157,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Azad Nagar,Azad Nagar,62,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Kunraghat,Kunraghat,55,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Shahpur,Shahpur,51,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Betiahata,Betiahata,46,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Rajendra Nagar,Rajendra Nagar,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Mughala,Mughala,34,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Kawwa Bagh Colony,Kawwa Bagh Colony,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Miyan Baza,Miyan Baza,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Ramjanki Nagar,Ramjanki Nagar,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Hussain Nagar,Hussain Nagar,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Basantpur,Basantpur,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Shakti Nagar Colony,Shakti Nagar Colony,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Bade Kajipur,Bade Kajipur,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Nanda Nagar,Nanda Nagar,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Jatepur,Jatepur,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Rapti Nagar Phase 4,Rapti Nagar Phase 4,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Moharipur,Moharipur,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Phase 3Rd,Phase 3Rd,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Mirzapur Pachpedwa,Mirzapur Pachpedwa,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Ilahi Bagh,Ilahi Bagh,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Bichhiya,Bichhiya,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Shatabdipuram,Shatabdipuram,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,Vikas Nagar,Vikas Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Gorakhpur,North Humayunpur,North Humayunpur,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Civil Lines,Civil Lines,301,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Shankar Nagar,Shankar Nagar,223,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Moudhapara,Moudhapara,176,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Mahaveer Nagar,Mahaveer Nagar,134,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Devendra Nagar,Devendra Nagar,132,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Purena,Purena,111,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Samta Colony,Samta Colony,109,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Mowa,Mowa,80,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Jawahar Nagar,Jawahar Nagar,74,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Tatibandh,Tatibandh,73,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Amanaka,Amanaka,69,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Changurabhata,Changurabhata,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Deopuri,Deopuri,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Kota,Kota,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Lakhe Nagar,Lakhe Nagar,35,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Bhatagaon,Bhatagaon,34,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Mathpurena,Mathpurena,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Govind Nagar,Govind Nagar,29,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Bhanpuri,Bhanpuri,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Shrinagar,Shrinagar,27,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Tikrapara,Tikrapara,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Boriyakhurd,Boriyakhurd,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Patel Para,Patel Para,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Raipur,Gogaon,Gogaon,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharamshala,Mcleodganj,Mcleodganj,112,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharamshala,Chilgari,Chilgari,82,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharamshala,Ram Nagar,Ram Nagar,48,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharamshala,Shyam Nagar,Shyam Nagar,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharamshala,Gamru,Gamru,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Dharamshala,Loharkadi,Loharkadi,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manali,Aleo,Aleo,106,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manali,Old Manali,Old Manali,99,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manali,Kullu,Kullu,81,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manali,Tibetan Colony,Tibetan Colony,60,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Gandhi Nagar,Gandhi Nagar,105,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Channi Himmat,Channi Himmat,100,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Trikuta Nagar,Trikuta Nagar,85,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Rehari Colony,Rehari Colony,80,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Old Heritage City,Old Heritage City,78,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Shiv Nagar,Shiv Nagar,58,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Marble Market Area,Marble Market Area,53,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Transport Nagar,Transport Nagar,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Shastri Nagar,Shastri Nagar,49,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Resham Ghar Colony,Resham Ghar Colony,47,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Barnai,Barnai,47,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Nanak Nagar,Nanak Nagar,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Sidco Complex,Sidco Complex,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Hari Market,Hari Market,33,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Patoli,Patoli,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Preet Nagar,Preet Nagar,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Raghunath Bazaar,Raghunath Bazaar,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Katra,Katra,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Lal Kuan,Lal Kuan,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Karan Nagar,Karan Nagar,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jammu,Maheshpura,Maheshpura,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Shastri Nagar,Shastri Nagar,200,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Adarsh Nagar,Adarsh Nagar,149,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Model Town,Model Town,126,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Urban Estate,Urban Estate,106,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Gt Road,Gt Road,93,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Rama Mandi,Rama Mandi,86,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Ppr Market,Ppr Market,59,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Jalandhar Cantt,Jalandhar Cantt,51,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Model House,Model House,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Nakodar Road,Nakodar Road,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Maqsudan,Maqsudan,37,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Transport Nagar,Transport Nagar,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jalandhar,Katarpur,Katarpur,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Tapovan,Tapovan,184,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Manvendera Nagar,Manvendera Nagar,114,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Swarg Ashram,Swarg Ashram,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Idpl Colony,Idpl Colony,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Dhalwala,Dhalwala,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Labor Colony,Labor Colony,16,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Shyampur,Shyampur,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rishikesh,Gumaniwala,Gumaniwala,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mussoorie,The Mall Road,The Mall Road,114,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mussoorie,Landour,Landour,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mussoorie,Library Road,Library Road,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mussoorie,Kempty Fall Road,Kempty Fall Road,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Mussoorie,Barlow Ganj,Barlow Ganj,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Pal Bhichala,Pal Bhichala,167,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Ana Sagar Lake,Ana Sagar Lake,159,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Kotra,Kotra,88,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Panchsheel Nagar,Panchsheel Nagar,78,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Railway Quarters,Railway Quarters,55,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Police Lines,Police Lines,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Gaddi Malian,Gaddi Malian,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Ram Ganj,Ram Ganj,34,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Dhola Bhata Colony,Dhola Bhata Colony,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Kundan Nagar,Kundan Nagar,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Adarsh Nagar,Adarsh Nagar,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Ajmer,Hathi Khera,Hathi Khera,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Talwandi,Talwandi,264,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Ladpura,Ladpura,134,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Chawani,Chawani,115,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Indraprastha Industrial Area,Indraprastha Industrial Area,77,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Rangbari,Rangbari,71,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Dhanmandi,Dhanmandi,71,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Civil Lines,Civil Lines,64,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Kota Industrial Area,Kota Industrial Area,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Rk Puram - E,Rk Puram - E,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Dadabari,Dadabari,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kota,Rps Colony,Rps Colony,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Sardarpura,Sardarpura,249,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Chopasni Housing Board,Chopasni Housing Board,186,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Ratanada,Ratanada,155,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Paota,Paota,154,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Basni,Basni,152,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Shastri Nagar,Shastri Nagar,130,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Rawaton Ka Bass,Rawaton Ka Bass,75,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Air Force Area,Air Force Area,51,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Mandore,Mandore,51,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Pal Gaon,Pal Gaon,50,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Station Road,Station Road,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Kabir Nagar,Kabir Nagar,39,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Cantt Area,Cantt Area,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,1St Pulia,1St Pulia,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Sangriya,Sangriya,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Maderana Colony,Maderana Colony,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Rawat Nagar,Rawat Nagar,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Bjs Colony,Bjs Colony,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Bhadu Market,Bhadu Market,17,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Prem Nagar,Prem Nagar,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Bhagat Ki Kothi,Bhagat Ki Kothi,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Jodhpur,Soor Sagar,Soor Sagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Labbipet,Labbipet,235,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Auto Nagar,Auto Nagar,135,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Gurunanak Colony,Gurunanak Colony,113,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Governorpet,Governorpet,106,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Poranki,Poranki,84,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Gollapudi,Gollapudi,66,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Islampet,Islampet,65,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Mangalagiri,Mangalagiri,60,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Tadepalli,Tadepalli,41,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Gandhi Nagar,Gandhi Nagar,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Gunadala,Gunadala,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Christurajupuram,Christurajupuram,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Ramavarappadu,Ramavarappadu,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Krishna Lanka,Krishna Lanka,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Gannavaram,Gannavaram,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Machavaram,Machavaram,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Enikepadu,Enikepadu,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Pnt Colony,Pnt Colony,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Vijayawada,Payakapuram,Payakapuram,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Vidyaratna Nagar,Vidyaratna Nagar,81,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Eshwar Nagar,Eshwar Nagar,77,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Maruthi Veethika,Maruthi Veethika,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Tiger Circle,Tiger Circle,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Brahmagiri,Brahmagiri,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Kunjibettu,Kunjibettu,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Kinnimulki,Kinnimulki,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Shivalli,Shivalli,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Kidiyoor,Kidiyoor,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Nittur,Nittur,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Saralebettu,Saralebettu,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Dasharath Nagar,Dasharath Nagar,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Pandubettu,Pandubettu,6,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Manipal,Doddanagudde,Doddanagudde,5,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Poothole,Poothole,170,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Kizhakkumpattukara,Kizhakkumpattukara,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Chalakudy,Chalakudy,68,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Guruvayur,Guruvayur,63,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Ayyanthole,Ayyanthole,52,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Puzhakkal,Puzhakkal,50,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Peringavu,Peringavu,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Irinjalakuda,Irinjalakuda,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Mannuthy,Mannuthy,30,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Ollur,Ollur,21,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Koorkencherry,Koorkencherry,20,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Thrissur,Kuriachira,Kuriachira,18,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Anantha Narayanapuram,Anantha Narayanapuram,47,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Thathampally,Thathampally,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Pazhaveedu,Pazhaveedu,15,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Kommady,Kommady,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Punnapra,Punnapra,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Kanjiramchira,Kanjiramchira,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Alappuzha,Pathirappally,Pathirappally,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Palayam,Palayam,140,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Vellayil,Vellayil,112,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Kuttichira,Kuttichira,87,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Ummalathoor,Ummalathoor,70,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Malaparamba,Malaparamba,56,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Bilathikkulam,Bilathikkulam,44,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Puthiyangadi,Puthiyangadi,11,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Arrakinar,Arrakinar,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Thiruvannur,Thiruvannur,10,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Kozhikode,Moozhikkal,Moozhikkal,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Kk Nagar,Kk Nagar,223,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Periyar,Periyar,171,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Ss Colony,Ss Colony,129,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Viswanathapuram,Viswanathapuram,122,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Sathamangalam,Sathamangalam,103,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Iyer Bungalow,Iyer Bungalow,85,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Arrapalayam,Arrapalayam,74,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Koodal Nagar,Koodal Nagar,43,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Othakadai,Othakadai,42,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Villapuram,Villapuram,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Bethaniyapuram,Bethaniyapuram,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Pasumalai,Pasumalai,38,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Pandian Nagar,Pandian Nagar,34,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Balarengapuram,Balarengapuram,32,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Doak Nagar,Doak Nagar,26,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Kamarajar Salai,Kamarajar Salai,25,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Vandiyur,Vandiyur,24,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Southern Railway Colony,Southern Railway Colony,23,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Avaniyapuram,Avaniyapuram,12,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Madurai,Keerathurai,Keerathurai,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Kotecha Nagar,Kotecha Nagar,199,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,150 Feet Ring Road,150 Feet Ring Road,158,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Dr Yagnik Road,Dr Yagnik Road,104,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Nana Mava,Nana Mava,89,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Race Course,Race Course,89,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Kalawad Road,Kalawad Road,83,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Mavdi,Mavdi,75,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Bhakti Nagar,Bhakti Nagar,50,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Arya Nagar,Arya Nagar,45,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Mota Mava,Mota Mava,36,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Sardar Nagar,Sardar Nagar,31,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Junction Plot,Junction Plot,28,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Soni Bazaar,Soni Bazaar,22,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Kothi Compound,Kothi Compound,19,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Popat Para,Popat Para,14,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Jangleshwar,Jangleshwar,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Manharpur,Manharpur,13,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Bedi,Bedi,9,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Samrat Industrial Area,Samrat Industrial Area,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Vavdi,Vavdi,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Bhagwatipara,Bhagwatipara,8,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Rajkot,Kotharia,Kotharia,7,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+India,Pushkar,Choti Basti,Choti Basti,84,Week 11-2023,2023-03-13,2023-03-13 10:58:24
+Country,City,Area,Area_Clean,Count,Relevant_Week,Relevant_Date,Runtime
+India,Bankura,Bankura,Bankura,49,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Angul,Angul,Angul,60,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Beed,Beed,Beed,89,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Samastipur,Samastipur,Samastipur,85,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Motihari,Motihari,Motihari,96,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bettiah,Bettiah,Bettiah,57,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siddipet,Siddipet,Siddipet,82,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mahbubnagar,Mahbubnagar,Mahbubnagar,87,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nuzividu,Nuzividu,Nuzividu,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Attingal,Attingal,Attingal,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Medak,Medak,Medak,34,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mancherial,Mancherial,Mancherial,112,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kamareddy,Kamareddy,Kamareddy,99,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jagtial,Jagtial,Jagtial,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gadwal,Gadwal,Gadwal,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bodhan,Bodhan,Bodhan,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhadrachalam,Bhadrachalam,Bhadrachalam,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Adilabad,Adilabad,Adilabad,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rajampet,Rajampet,Rajampet,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puttur,Puttur,Puttur,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Proddatur,Proddatur,Proddatur,129,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Narsapur,Narsapur,Narsapur,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Markapur,Markapur,Markapur,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kavali,Kavali,Kavali,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hindupur,Hindupur,Hindupur,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shikohabad,Shikohabad,Shikohabad,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Etawah,Etawah,Etawah,98,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dabra,Dabra,Dabra,36,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Deoband,Deoband,Deoband,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sikandrabad,Sikandrabad,Sikandrabad,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sambhal,Sambhal,Sambhal,34,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Khurja,Khurja,Khurja,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kasganj,Kasganj,Kasganj,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hathras,Hathras,Hathras,49,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hapur,Hapur,Hapur,124,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Etah,Etah,Etah,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Baghpat,Baghpat,Baghpat,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Namakkal,Namakkal,Namakkal,107,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hanumangarh,Hanumangarh,Hanumangarh,83,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Samrala,Samrala,Samrala,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Phillaur,Phillaur,Phillaur,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nakodar,Nakodar,Nakodar,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jagraon,Jagraon,Jagraon,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Fazilka,Fazilka,Fazilka,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Samba,Samba,Samba,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kathua,Kathua,Kathua,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Phaltan,Phaltan,Phaltan,75,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Pandharpur,Pandharpur,Pandharpur,89,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Osmanabad,Osmanabad,Osmanabad,105,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manmad,Manmad,Manmad,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Malegaon,Malegaon,Malegaon,111,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karad,Karad,Karad,245,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chalisgaon,Chalisgaon,Chalisgaon,53,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhusawal,Bhusawal,Bhusawal,173,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Barshi,Barshi,Barshi,83,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amalner,Amalner,Amalner,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vidisha,Vidisha,Vidisha,76,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Singrauli,Singrauli,Singrauli,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Singrauli,Waidhan,Waidhan,27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Seoni,Seoni,Seoni,47,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sehore,Sehore,Sehore,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Khargone,Khargone,Khargone,61,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Itarsi,Itarsi,Itarsi,58,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dhar,Dhar,Dhar,58,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Damoh,Damoh,Damoh,70,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chhatarpur,Chhatarpur,Chhatarpur,85,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gudivada,Gudivada,Gudivada,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chirala,Chirala,Chirala,35,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Burhanpur,Burhanpur,Burhanpur,57,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bina,Bina,Bina,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sultanpur,Sultanpur,Sultanpur,62,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sitapur,Sitapur,Sitapur,100,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Balaghat,Balaghat,Balaghat,63,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thodupuzha,Thodupuzha,Thodupuzha,61,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Pathanamthitta,Pathanamthitta,Pathanamthitta,78,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bobbili,Bobbili,Bobbili,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Adoni,Adoni,Adoni,67,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanuku,Tanuku,Tanuku,100,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kasaragod,Kasaragod,Kasaragod,29,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Beawar,Beawar,Beawar,83,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chapra,Chhapra,Chhapra,58,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Behror,Behror,Behror,70,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Begusarai,Begusarai,Begusarai,97,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bundi,Bundi,Bundi,80,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nathdwara,Nathdwara,Nathdwara,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raniganj,Raniganj,Raniganj,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amreli,Amreli,Amreli,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ramgarh,Ramgarh,Ramgarh,74,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jagdalpur,Jagdalpur,Jagdalpur,109,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hazaribagh,Hazaribagh,Hazaribagh,137,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muvattupuzha,Muvattupuzha,Muvattupuzha,83,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Modinagar,Modinagar,Modinagar,193,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Modinagar,Muradnagar,Muradnagar,80,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bahadurgarh,Bahadurgarh,Bahadurgarh,241,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ambikapur,Ambikapur,Ambikapur,88,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Faizabad-Ayodhya ,Faizabad-Ayodhya,Faizabad-Ayodhya,202,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chitradurga,Chitradurga,Chitradurga,90,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bidar,Bidar,Bidar,96,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hosur,Hosur,Hosur,244,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sangamner,Sangamner,Sangamner,139,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sohna,Sohna,Sohna,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Narnaul,Narnaul,Narnaul,81,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhajjar,Jhajjar,Jhajjar,54,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ichalkaranji,Ichalkaranji,Ichalkaranji,215,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Charkhi Dadri,Charkhi Dadri,Charkhi Dadri,55,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalna,Jalna,Jalna,198,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kundapura-Koteshwar,Kundapura-Koteshwar,Kundapura-Koteshwar,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Farrukhabad,Farrukhabad,Farrukhabad,90,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Farrukhabad,Fatehgarh,Fatehgarh,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Moodbidri,Moodbidri,Moodbidri,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karwar,Karwar,Karwar,64,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Baddi,Baddi,Baddi,90,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Baddi,Shivalik Nagar,Shivalik Nagar,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Baddi,Nalagarh,Nalagarh,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ambur,Ambur,Ambur,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rudrapur,Rudrapur,Rudrapur,203,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Porbandar,Porbandar,Porbandar,108,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhunjhunu,Jhunjhunu,Jhunjhunu,110,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Churu,Churu,Churu,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sikar,Sikar,Sikar,322,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hoshangabad,Hoshangabad,Hoshangabad,80,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hampi-Hospet,Hampi-Hospet,Hampi-Hospet,90,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Faridkot,Faridkot,Faridkot,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Khanna,Khanna,Khanna,144,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Khanna,Mandi Gobindgarh,Mandi Gobindgarh,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Abohar,Abohar,Abohar,149,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kaithal,Kaithal,Kaithal,161,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Purnea,Purnea,Purnea,246,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Deoghar,Deoghar,Deoghar,160,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palwal,Palwal,Palwal,123,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chikmagalur,Chikmagalur,Chikmagalur,97,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kottayam,Kottayam,Kottayam,303,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kottayam,Pala,Pala,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Firozabad,Firozabad,Firozabad,122,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shahjahanpur,Shahjahanpur,Shahjahanpur,193,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nadiad,Nadiad,Nadiad,176,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Unnao,Unnao,Unnao,161,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hassan,Hassan,Hassan,135,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhatkal,Bhatkal,Bhatkal,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Narasaraopet,Narasaraopet,Narasaraopet,76,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shivpuri,Shivpuri,Shivpuri,66,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mehsana,Mehsana,Mehsana,227,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mehsana,Visanagar,Visanagar,54,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bulandshahr,Bulandshahr,Bulandshahr,111,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Yavatmal,Yavatmal,Yavatmal,129,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tumkur,Tumkur,Tumkur,192,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tezpur,Tezpur,Tezpur,123,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Suryapet,Suryapet,Suryapet,56,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Silchar,Silchar,Silchar,79,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sambalpur,Sambalpur,Sambalpur,224,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sambalpur,Bargarh,Bargarh,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rewari,Rewari,Rewari,269,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rampur,Rampur,Rampur,124,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rajnandgaon,Rajnandgaon,Rajnandgaon,113,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raichur,Raichur,Raichur,103,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Pudukkottai,Pudukkottai,Pudukkottai,87,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Pithampur,Pithampur,Pithampur,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Parbhani,Parbhani,Parbhani,126,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Pali,Pali,Pali,139,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Neemuch,Neemuch,Neemuch,106,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nandyal,Nandyal,Nandyal,137,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muzaffarpur,Muzaffarpur,Muzaffarpur,313,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Morena,Morena,Morena,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Moga,Moga,Moga,127,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mandsaur,Mandsaur,Mandsaur,117,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Machilipatnam,Machilipatnam,Machilipatnam,73,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolar,Kolar,Kolar,58,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dibrugarh,Dibrugarh,Dibrugarh,88,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharmavaram,Dharmavaram,Dharmavaram,36,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Darbhanga,Darbhanga,Darbhanga,194,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Cuddalore,Cuddalore,Cuddalore,77,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chandrapur,Chandrapur,Chandrapur,247,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bijnor,Bijnor,Bijnor,88,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhiwani,Bhiwani,Bhiwani,123,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Berhampur,Berhampur,Berhampur,211,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Barabanki,Barabanki,Barabanki,137,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Balasore,Balasore,Balasore,191,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Baramati,Baramati,Baramati,198,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Wardha,Wardha,Wardha,178,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Pathankot,Pathankot,Pathankot,248,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nizamabad,Nizamabad,Nizamabad,259,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nizamabad,Armoor,Armoor,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Khammam,Khammam,Khammam,267,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kapurthala,Kapurthala,Kapurthala,136,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raigarh,Raigarh,Raigarh,100,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sirsa,Sirsa,Sirsa,248,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bijapur,Bijapur,Bijapur,177,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gurdaspur,Gurdaspur,Gurdaspur,117,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Barnala,Barnala,Barnala,105,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rajpura,Rajpura,Rajpura,117,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rajpura,Banur,Banur,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhuj,Bhuj,Bhuj,181,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rewa,Rewa,Rewa,182,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jorhat,Jorhat,Jorhat,191,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chittoor,Chittoor,Chittoor,100,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kollam,Kollam,Kollam,365,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kollam,Varkala,Varkala,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kollam,Chathanoor,Chathanoor,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ongole,Ongole,Ongole,199,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruvannamalai,Tiruvannamalai,Tiruvannamalai,67,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thoothukudi,Thoothukudi,Thoothukudi,168,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Krishnagiri,Krishnagiri,Krishnagiri,53,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kumbakonam,Kumbakonam,Kumbakonam,108,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhimavaram,Bhimavaram,Bhimavaram,124,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nagercoil,Nagercoil,Nagercoil,197,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dindigul,Dindigul,Dindigul,209,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sri Ganganagar,Sri Ganganagar,Sri Ganganagar,280,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirunelveli,Tirunelveli,Tirunelveli,347,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karaikudi,Karaikudi,Karaikudi,174,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karaikudi,Devakottai,Devakottai,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhiwadi,Bhiwadi,Bhiwadi,217,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Korba,Korba,Korba,211,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guna,Guna,Guna,96,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karimnagar,Karimnagar,Karimnagar,269,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gandhidham,Gandhidham,Gandhidham,315,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bharatpur,Bharatpur,Bharatpur,142,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bharatpur,Sewar,Sewar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chhindwara,Chhindwara,Chhindwara,133,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Srikakulam,Srikakulam,Srikakulam,123,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tuni,Tuni,Tuni,67,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Batala,Batala,Batala,96,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hoshiarpur,Hoshiarpur,Hoshiarpur,215,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Phagwara,Phagwara,Phagwara,330,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Khandwa,Khandwa,Khandwa,83,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dewas,Dewas,Dewas,157,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vapi,Vapi,Vapi,251,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vapi,Daman,Daman,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Valsad,Valsad,Valsad,199,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Navsari,Navsari,Navsari,265,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nagaon,Nagaon,Nagaon,100,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tadepalligudem,Tadepalligudem,Tadepalligudem,76,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Eluru,Eluru,Eluru,161,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vizianagaram,Vizianagaram,Vizianagaram,196,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kadapa,Kadapa,Kadapa,248,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ratnagiri,Ratnagiri,Ratnagiri,120,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Katni,Katni,Katni,128,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Latur,Latur,Latur,442,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Akola,Akola,Akola,313,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Satara,Satara,Satara,358,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sangli,Sangli,Sangli,539,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sangli,Jaysingpur,Jaysingpur,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dhule,Dhule,Dhule,235,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bharuch,Bharuch,Bharuch,339,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Satna,Satna,Satna,183,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sagar,Sagar,Sagar,239,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ratlam,Ratlam,Ratlam,191,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bardhaman,Bardhaman,Bardhaman,197,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Asansol,Asansol,Asansol,225,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Roorkee,Roorkee,Roorkee,296,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Haldwani,Haldwani,Haldwani,669,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raebareli,Raebareli,Raebareli,136,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Chittorgarh,Chittorgarh,Chittorgarh,127,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhilwara,Bhilwara,Bhilwara,330,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sangrur,Sangrur,Sangrur,154,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sangrur,Sunam,Sunam,47,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sangrur,Bhawanigarh,Bhawanigarh,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Firozpur,Firozpur,Firozpur,149,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Solan,Solan,Solan,208,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Yamuna Nagar,Yamuna Nagar,Yamuna Nagar,363,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rohtak,Rohtak,Rohtak,459,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kurukshetra,Kurukshetra,Kurukshetra,331,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kurukshetra,Ladwa,Ladwa,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gaya,Gaya,Gaya,348,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhagalpur,Bhagalpur,Bhagalpur,339,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhagalpur,Nathnagar,Nathnagar,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kanchipuram,Kanchipuram,Kanchipuram,103,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shimoga,Shimoga,Shimoga,179,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gulbarga,Gulbarga,Gulbarga,310,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rajahmundry,Rajahmundry,Rajahmundry,402,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kakinada,Kakinada,Kakinada,334,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ambala,Ambala,Ambala,951,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Sonipat,Sonipat,Sonipat,300,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Solapur,Solapur,Solapur,795,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nellore,Nellore,Nellore,567,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nanded,Nanded,Nanded,436,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,230,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Moradabad,Moradabad,Moradabad,508,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mathura,Mathura,Mathura,419,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kurnool,Kurnool,Kurnool,416,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalgaon,Jalgaon,Jalgaon,401,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hisar,Hisar,Hisar,435,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durgapur,Durgapur,Durgapur,314,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dhanbad,Dhanbad,Dhanbad,506,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dhanbad,Govindpur,Govindpur,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dhanbad,Bhuli,Bhuli,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dhanbad,Katras,Katras,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Davanagere,Davanagere,Davanagere,195,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bokaro,Bokaro,Bokaro,232,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bhavnagar,Bhavnagar,Bhavnagar,266,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bellary,Bellary,Bellary,132,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Belgaum,Belgaum,Belgaum,605,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anantapur,Anantapur,Anantapur,432,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anantapur,Tadipatri,Tadipatri,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alwar,Alwar,Alwar,337,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Aligarh,Aligarh,Aligarh,405,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ahmednagar,Ahmednagar,Ahmednagar,466,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muktsar,Shree Muktsar Sahib,Shree Muktsar Sahib,94,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muktsar,Narang Colony,Narang Colony,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muktsar,Bhullar Colony,Bhullar Colony,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Muktsar,New Grain Market,New Grain Market,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Vidya Nagar,Vidya Nagar,234,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,New Hubli,New Hubli,144,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Keshwapur,Keshwapur,102,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Rajendra Nagar,Rajendra Nagar,81,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Old Hubli,Old Hubli,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Navanagar,Navanagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Bhairidevakoppa Dargha,Bhairidevakoppa Dargha,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Hubli,Chalukya Nagar,Chalukya Nagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Maratha Colony,Maratha Colony,54,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Saptapur,Saptapur,53,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Vidyagiri,Vidyagiri,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Malmaddi,Malmaddi,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Narayanpura,Narayanpura,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Sattur,Sattur,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Hosayellapur,Hosayellapur,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Shriram Nagar,Shriram Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharwad,Police Head Quarters,Police Head Quarters,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Hanamakonda,Hanamakonda,407,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Girmajipet,Girmajipet,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Kothawada,Kothawada,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Shiva Nagar,Shiva Nagar,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Mathwada,Mathwada,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Deshaipet,Deshaipet,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Ramannapet,Ramannapet,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Rangashaipet,Rangashaipet,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Warangal,Lb Nagar,Lb Nagar,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Kumar Nagar,Kumar Nagar,117,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Valliammai Nagar,Valliammai Nagar,98,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Velampalayam,Velampalayam,92,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Valipalayam,Valipalayam,67,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Karuvampalayam,Karuvampalayam,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Veerapandi,Veerapandi,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Rayapuram,Rayapuram,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Pitchampalayam Pudur,Pitchampalayam Pudur,36,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Laxmi Nagar,Laxmi Nagar,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,K Chettipalayam,K Chettipalayam,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Bavani Nagar,Bavani Nagar,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Mannarai,Mannarai,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Ms Nagar,Ms Nagar,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tiruppur,Pandiyan Nagar,Pandiyan Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,South Rampart,South Rampart,47,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Avp Azhagammal Nagar,Avp Azhagammal Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Eiswari Nagar,Eiswari Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Annai Sathya Nagar,Annai Sathya Nagar,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Maharnonbu Chavadi,Maharnonbu Chavadi,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Anna Nagar,Anna Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Ramani Nagar,Ramani Nagar,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Sundaram Pillai Nagar,Sundaram Pillai Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tanjore,Sundram Nagar,Sundram Nagar,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Silvassa,Bavisa Faliya,Bavisa Faliya,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Silvassa,Samarvarni,Samarvarni,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Silvassa,Amli Ind Estate,Amli Ind Estate,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Silvassa,Danudyog Industrial Estate,Danudyog Industrial Estate,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shillong,Police Bazaar,Police Bazaar,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shillong,Laitumkhrah,Laitumkhrah,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shillong,Golf Links,Golf Links,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shillong,Nongrimbrah,Nongrimbrah,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Subhash Nagar,Subhash Nagar,72,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Chander Nagar,Chander Nagar,62,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Haqikatnagar,Haqikatnagar,44,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Ram Nagar,Ram Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Railway Colony,Railway Colony,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Khatakeri,Khatakeri,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Numaish Camp,Numaish Camp,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Khalasi Lines,Khalasi Lines,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Nawabganj,Nawabganj,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Khan Alampura,Khan Alampura,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Patel Nagar,Patel Nagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Saharanpur,Jwala Nagar,Jwala Nagar,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Raghunathpali,Raghunathpali,57,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Raurkela Industrialship,Raurkela Industrialship,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Railway Colony,Railway Colony,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Chhend Colony,Chhend Colony,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Koel Nagar,Koel Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Udit Nagar,Udit Nagar,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Sector 6,Sector 6,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rourkela,Basanti Nagar,Basanti Nagar,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,Model Town,Model Town,108,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,New Hb Colony,New Hb Colony,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,Huda Sector 25,Huda Sector 25,44,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,Tehsil Camp,Tehsil Camp,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,Old Hb Colony,Old Hb Colony,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,Mahrana,Mahrana,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,"Huda Sector 13,17,18","Huda Sector 13,17,18",27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Panipat,Krishanpura,Krishanpura,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mount Abu,Nakki Lake,Nakki Lake,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mount Abu,Machgaon,Machgaon,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mount Abu,Delwara,Delwara,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kohima,Midland Colony,Midland Colony,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Iit Kharagpur,Iit Kharagpur,77,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Medinipur,Medinipur,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Inda,Inda,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Malancha,Malancha,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Bidhanpally,Bidhanpally,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,New Settlement,New Settlement,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Kharagpur Rly Settlement,Kharagpur Rly Settlement,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kharagpur,Talbagicha,Talbagicha,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Sector 13,Sector 13,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Sector 14,Sector 14,57,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Model Town,Model Town,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Dyal Singh Colony,Dyal Singh Colony,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Sector 7,Sector 7,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Ramesh Nagar,Ramesh Nagar,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Alpha International City,Alpha International City,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Sector 9,Sector 9,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Ram Nagar,Ram Nagar,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Kheri Naru,Kheri Naru,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Ansal Town,Ansal Town,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Sector 3,Sector 3,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Karnal,Sector 33,Sector 33,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Civil Lines,Civil Lines,174,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Sipri Bazaar,Sipri Bazaar,113,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Cantt,Cantt,85,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Purana Sahar,Purana Sahar,64,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Shivaji Nagar,Shivaji Nagar,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Indrapuri,Indrapuri,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Bundelkhand University,Bundelkhand University,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Rajghat Colony,Rajghat Colony,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Hansari,Hansari,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Ansal Colony,Ansal Colony,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Nagra,Nagra,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Jhokan Bagh,Jhokan Bagh,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jhansi,Bijauli Industrial Area,Bijauli Industrial Area,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Imphal,Thangal Bazaar,Thangal Bazaar,27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Imphal,Keishamthong,Keishamthong,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Imphal,Chingmeirong,Chingmeirong,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Imphal,Kangla,Kangla,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Imphal,Chingamikha,Chingamikha,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Tiruchengode,Tiruchengode,77,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Erode Fort,Erode Fort,74,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Palayapalayam,Palayapalayam,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Perundurai,Perundurai,65,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Bhavani,Bhavani,50,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Edayankattuvalasu,Edayankattuvalasu,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Periyar Nagar,Periyar Nagar,44,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Kollampalayam,Kollampalayam,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Asokapuram,Asokapuram,27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Thindal,Thindal,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Karungalpalayam,Karungalpalayam,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Rn Pudur,Rn Pudur,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Chettipalayam,Chettipalayam,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Veerappampalayam,Veerappampalayam,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Erode,Ngo Colony,Ngo Colony,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Diu,Fort Road,Fort Road,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Diu,Patelwadi,Patelwadi,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Rani Bazaar,Rani Bazaar,69,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Cantonment,Cantonment,61,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Old Bikaner,Old Bikaner,55,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Sadul Ganj,Sadul Ganj,55,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Bikaner Fort,Bikaner Fort,47,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Vallabh Garden,Vallabh Garden,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Mukta Prasad Nagar,Mukta Prasad Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Samta Nagar,Samta Nagar,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Gangashahar,Gangashahar,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Karni Colony,Karni Colony,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Tilak Nagar,Tilak Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bikaner,Murlidhar Vyas Colony,Murlidhar Vyas Colony,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Nehru Nagar,Nehru Nagar,303,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Durg,Durg,144,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Bhilai Nagar Township,Bhilai Nagar Township,117,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Supela,Supela,106,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Risali,Risali,79,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Kohka,Kohka,78,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Janjgiri,Janjgiri,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Light Industrial Area,Light Industrial Area,34,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Durg Bhilai,Charoda,Charoda,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,100Ft Road,100Ft Road,59,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Gt Road,Gt Road,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Bibi Wala Road,Bibi Wala Road,34,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Batinda,Batinda,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Ajit Road,Ajit Road,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Model Town,Model Town,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Mall Road,Mall Road,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Bhucho Khurd,Bhucho Khurd,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Rampura Phul,Rampura Phul,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Dhobi Bazar,Dhobi Bazar,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Civil Lines,Civil Lines,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Amrik Singh Road,Amrik Singh Road,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Baba Farid Nagar,Baba Farid Nagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Housefeed Colony,Housefeed Colony,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Parasram Nagar,Parasram Nagar,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Old City,Old City,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Partap Nagar,Partap Nagar,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bathinda,Mehna Chowk,Mehna Chowk,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Model Town,Model Town,178,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Subhash Nagar Colony,Subhash Nagar Colony,72,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Civil Lines,Civil Lines,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Izatnagar,Izatnagar,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Mahanagar Colony,Mahanagar Colony,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Nawada,Nawada,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Green Park Colony,Green Park Colony,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Qureshi Nagar,Qureshi Nagar,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Suresh Sharma Nagar,Suresh Sharma Nagar,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Gangapur,Gangapur,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Gulab Nagar,Gulab Nagar,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Rampur Garden,Rampur Garden,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Cb Ganj,Cb Ganj,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Prem Nagar,Prem Nagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,North City Extension,North City Extension,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bareilly,Airport Area,Airport Area,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Vallabh Vidyanagar,Vallabh Vidyanagar,307,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Gamdi,Gamdi,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Vivekanad Wadi,Vivekanad Wadi,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Rajodpura,Rajodpura,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Gidc,Gidc,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Nanikhodiyar,Nanikhodiyar,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Popati Nagar,Popati Nagar,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Jitodia,Jitodia,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Karamsad,Karamsad,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Anand,Purushottam Nagar,Purushottam Nagar,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Aizawl,Chatlang,Chatlang,66,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Aizawl,Khatla,Khatla,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Krishna Nagar,Krishna Nagar,96,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Dhaleswar,Dhaleswar,59,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Jay Nagar,Jay Nagar,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Ram Nagar,Ram Nagar,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Udaipur,Udaipur,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Indranagar,Indranagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,79 Tilla,79 Tilla,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Hapania,Hapania,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Nutan Nagar,Nutan Nagar,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Pratapgarh,Pratapgarh,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Agartala,Badharghat,Badharghat,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Lakshmipuram,Lakshmipuram,131,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Brodipet,Brodipet,115,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Tenali,Tenali,76,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Old Guntur,Old Guntur,72,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Amaravathi Road,Amaravathi Road,55,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Srinivasa Nagar Colony,Srinivasa Nagar Colony,50,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Srinivasarao Pet,Srinivasarao Pet,35,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Gorantla,Gorantla,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,At Agraharam,At Agraharam,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Agatha Varappadu,Agatha Varappadu,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Guntur,Sitaram Nagar,Sitaram Nagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Bistupur,Bistupur,294,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Sakchi,Sakchi,207,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Mango,Mango,146,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Sonari,Sonari,90,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Gamharia,Gamharia,51,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Golmuri,Golmuri,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Telco Colony,Telco Colony,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Birsanagar,Birsanagar,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Burma Mines,Burma Mines,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Adityapur,Adityapur,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Ghatshila,Ghatshila,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Chandil,Chandil,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamshedpur,Govindpur,Govindpur,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Lashkar,Lashkar,242,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,City Center,City Center,186,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Deen Dayal Nagar,Deen Dayal Nagar,87,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Morar,Morar,73,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Shinde Ki Chhawani,Shinde Ki Chhawani,59,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Thatipur,Thatipur,58,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Vinay Nagar,Vinay Nagar,44,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Naya Bazaar,Naya Bazaar,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Madhav Ganj,Madhav Ganj,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Birla Nagar,Birla Nagar,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Anand Nagar,Anand Nagar,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Mahalgaon,Mahalgaon,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Gulmohar City,Gulmohar City,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Lohamandi,Lohamandi,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Prasad Nagar,Prasad Nagar,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Ghosipura,Ghosipura,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Model Town,Model Town,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gwalior,Vijaynagar,Vijaynagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Napier Town,Napier Town,149,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Vijay Nagar,Vijay Nagar,122,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Wright Town,Wright Town,85,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Civil Lines,Civil Lines,64,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Cantt,Cantt,62,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Rampur,Rampur,61,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Hathital,Hathital,59,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Garha,Garha,54,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Adhartal,Adhartal,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Ganjipura,Ganjipura,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Cod Area,Cod Area,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Lordganj,Lordganj,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Shastri Nagar,Shastri Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Gohalpur,Gohalpur,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Karmeta,Karmeta,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Dhanvantari Nagar,Dhanvantari Nagar,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Shakti Nagar,Shakti Nagar,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Ghamapur,Ghamapur,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Mahrajpur,Mahrajpur,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Chandmari,Chandmari,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jabalpur,Khamaria,Khamaria,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Ambapeth,Ambapeth,154,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Maltekedi,Maltekedi,151,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Navsaari,Navsaari,72,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Dastur Nagar,Dastur Nagar,64,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Sai Nagar,Sai Nagar,57,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Arjun Nagar,Arjun Nagar,29,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Sharda Vihar,Sharda Vihar,27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Yogiraj Nagar,Yogiraj Nagar,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Gopal Nagar,Gopal Nagar,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Hazrat Bilal Nagar,Hazrat Bilal Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Siddhivinayak Nagar,Siddhivinayak Nagar,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Nai Basti,Nai Basti,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Juni Basti,Juni Basti,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Transport Nagar,Transport Nagar,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Amravati,Guruchhaya Colony,Guruchhaya Colony,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Mangalwar Peth,Mangalwar Peth,141,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Tarabhai Park,Tarabhai Park,128,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Rajarampuri,Rajarampuri,118,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Shahupuri,Shahupuri,105,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Ruikar Colony,Ruikar Colony,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Shivaji Udyam Nagar,Shivaji Udyam Nagar,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Vidya Nagar,Vidya Nagar,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Kasaba Bawada,Kasaba Bawada,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Sarnobatwadi,Sarnobatwadi,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Hari Om Nagar,Hari Om Nagar,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Kalamba,Kalamba,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Pratibha Nagar,Pratibha Nagar,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Ratnappa Kumbhar Nagar,Ratnappa Kumbhar Nagar,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Deokar Panand,Deokar Panand,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Salokhe Nagar,Salokhe Nagar,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Phulewadi,Phulewadi,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Line Bazaar,Line Bazaar,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Shahu Market Yard,Shahu Market Yard,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kolhapur,Tapowan,Tapowan,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Model Town,Model Town,157,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Urban Estate,Urban Estate,114,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Lahori Gate,Lahori Gate,90,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Tripuri,Tripuri,84,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Nabha,Nabha,64,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Adalat Bazaar,Adalat Bazaar,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Prem Nagar,Prem Nagar,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,New Officers Colony,New Officers Colony,37,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Nabha Gate,Nabha Gate,35,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Abchal Nagar,Abchal Nagar,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Gurbax Colony,Gurbax Colony,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Ranjit Nagar,Ranjit Nagar,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Patiala Cantt,Patiala Cantt,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Patiala,Sanaur,Sanaur,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Thillai Nagar,Thillai Nagar,159,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Cantonment,Cantonment,135,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Kk Nagar,Kk Nagar,99,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Kattur,Kattur,93,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Woraiyur,Woraiyur,87,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Main Guard Gate,Main Guard Gate,80,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Srirangam,Srirangam,71,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Tvs Tolgate,Tvs Tolgate,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Allithurai,Allithurai,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Karumandapam,Karumandapam,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Ariyamangalam Area,Ariyamangalam Area,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Trichy,Kamaraj Nagar,Kamaraj Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Alagapuram Pudur,Alagapuram Pudur,219,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Suramangalam,Suramangalam,105,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Shevapet,Shevapet,66,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Rasipuram,Rasipuram,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Narasothipatti,Narasothipatti,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Gugai,Gugai,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Ammapet,Ammapet,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Seelanaickenpatti,Seelanaickenpatti,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Kitchipalayam,Kitchipalayam,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Periyakollappatty,Periyakollappatty,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Ariyanur,Ariyanur,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Kondalampatti,Kondalampatti,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Gorimedu,Gorimedu,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Kannankurichi,Kannankurichi,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Salem,Vellakalpatti,Vellakalpatti,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Katpadi,Katpadi,102,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Ranipet,Ranipet,78,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Thottapalayam,Thottapalayam,59,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Kosapet,Kosapet,56,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Gandhi Nagar,Gandhi Nagar,54,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Saidapet,Saidapet,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Sathuvachari,Sathuvachari,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Rv Nagar,Rv Nagar,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Bagayam,Bagayam,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Rn Palayam,Rn Palayam,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vellore,Thorapadi,Thorapadi,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Meerut Cantt,Meerut Cantt,307,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Shastri Nagar,Shastri Nagar,300,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Pallavpuram,Pallavpuram,150,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Devpuri,Devpuri,117,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Partapur,Partapur,113,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Madhavpuram,Madhavpuram,104,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Mohkam Pur,Mohkam Pur,89,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Ganga Nagar,Ganga Nagar,85,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Sadar Bazaar,Sadar Bazaar,84,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Mohan Puri,Mohan Puri,77,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Fazalpur,Fazalpur,53,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Sofipur,Sofipur,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Thapar Nagar,Thapar Nagar,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Mda,Mda,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Subhash Nagar,Subhash Nagar,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Meerut,Lohia Nagar,Lohia Nagar,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nainital,Sherwani,Sherwani,139,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nainital,Mall Road,Mall Road,67,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nainital,Tallital,Tallital,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Nainital,Ayarpatta,Ayarpatta,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Pradhan Nagar,Pradhan Nagar,216,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Khalpara,Khalpara,212,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Bankim Nagar,Bankim Nagar,188,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Janta Nagar,Janta Nagar,149,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Patiram Jote,Patiram Jote,127,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Subhas Pally,Subhas Pally,79,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Champasari,Champasari,50,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Haidar Para,Haidar Para,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Saktigarh,Saktigarh,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Nayapara,Nayapara,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Dabgram,Dabgram,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Siliguri,Ghogomali,Ghogomali,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Itanagar,E Sector,E Sector,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Itanagar,C Sector,C Sector,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Telipara,Telipara,127,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Narmada Nagar,Narmada Nagar,66,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Agyay Nagar,Agyay Nagar,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Sarkanda,Sarkanda,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Tikrapara,Tikrapara,40,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Masanganj,Masanganj,36,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Rajkishor Nagar,Rajkishor Nagar,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Tifra,Tifra,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Gole Bazaar,Gole Bazaar,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Tarbahar Chowk,Tarbahar Chowk,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Jarahbhata,Jarahbhata,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Bilaspur,Lingiadih,Lingiadih,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Darjeeling,Chauk Bazaar,Chauk Bazaar,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Darjeeling,Limbugaon,Limbugaon,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Darjeeling,Lebong,Lebong,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Tirumala,Tirumala,140,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Tata Nagar,Tata Nagar,97,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Korlagunta,Korlagunta,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Srinivasa Nagar,Srinivasa Nagar,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Sri Padmavati Mahila...,Sri Padmavati Mahila...,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Korramenugunta,Korramenugunta,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Mangalam,Mangalam,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Vidyut Nagar,Vidyut Nagar,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Tirupati,Tiruchanur,Tiruchanur,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Talav Gate,Talav Gate,49,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Moti Palace Township,Moti Palace Township,36,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Monalisa Township,Monalisa Township,29,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Dolatpara,Dolatpara,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Shashikunj,Shashikunj,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Joshipura,Joshipura,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Mullawada,Mullawada,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Adarsh Nagar,Adarsh Nagar,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Junagadh,Gandhi Gram,Gandhi Gram,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Patel Colony,Patel Colony,143,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Jamnagar,Jamnagar,76,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Khodiyar Colony,Khodiyar Colony,75,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Green City,Green City,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Satyam Colony,Satyam Colony,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Defence Colony,Defence Colony,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jamnagar,Gulab Nagar,Gulab Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puri,Dolamandap Sahi,Dolamandap Sahi,66,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puri,Baliapanda Housing Board Colony,Baliapanda Housing Board Colony,60,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puri,Penthakata,Penthakata,51,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puri,Balagandi,Balagandi,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puri,Purussottam Nagar,Purussottam Nagar,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Puri,Badasankha,Badasankha,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kodaikanal,Kodaikanal Lake,Kodaikanal Lake,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kodaikanal,Annanagar,Annanagar,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jaisalmer,Amar Sagar Pol,Amar Sagar Pol,50,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jaisalmer,Ram Kund,Ram Kund,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jaisalmer,Malka Pol,Malka Pol,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Pawapuri Colony,Pawapuri Colony,190,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Sethi Nagar,Sethi Nagar,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Malipura,Malipura,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Rishi Nagar,Rishi Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Mahanada Nagar,Mahanada Nagar,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Jabsinghpura,Jabsinghpura,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Sirsagar,Sirsagar,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ujjain,Kajipura,Kajipura,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shirdi,Sai Nagar,Sai Nagar,107,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shirdi,Shiv Nagar,Shiv Nagar,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shirdi,Govind Nagar,Govind Nagar,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Shirdi,Sita Nagar,Sita Nagar,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Vidyut Nagar,Vidyut Nagar,84,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Kalmandapam,Kalmandapam,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Nurani,Nurani,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Olavakode,Olavakode,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Tippusulthan Nagar,Tippusulthan Nagar,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Puthuppariyaram,Puthuppariyaram,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Chandranagar Colony,Chandranagar Colony,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Thirunellayi,Thirunellayi,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Palakkad,Kanjikode,Kanjikode,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Golghar,Golghar,160,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Azad Nagar,Azad Nagar,62,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Kunraghat,Kunraghat,55,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Shahpur,Shahpur,51,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Betiahata,Betiahata,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Rajendra Nagar,Rajendra Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Mughala,Mughala,35,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Kawwa Bagh Colony,Kawwa Bagh Colony,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Ramjanki Nagar,Ramjanki Nagar,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Miyan Baza,Miyan Baza,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Hussain Nagar,Hussain Nagar,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Basantpur,Basantpur,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Shakti Nagar Colony,Shakti Nagar Colony,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Bade Kajipur,Bade Kajipur,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Nanda Nagar,Nanda Nagar,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Jatepur,Jatepur,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Rapti Nagar Phase 4,Rapti Nagar Phase 4,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Moharipur,Moharipur,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Phase 3Rd,Phase 3Rd,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Mirzapur Pachpedwa,Mirzapur Pachpedwa,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Ilahi Bagh,Ilahi Bagh,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Shatabdipuram,Shatabdipuram,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Bichhiya,Bichhiya,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,Vikas Nagar,Vikas Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Gorakhpur,North Humayunpur,North Humayunpur,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Civil Lines,Civil Lines,299,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Shankar Nagar,Shankar Nagar,223,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Moudhapara,Moudhapara,177,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Mahaveer Nagar,Mahaveer Nagar,135,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Devendra Nagar,Devendra Nagar,132,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Purena,Purena,111,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Samta Colony,Samta Colony,109,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Mowa,Mowa,81,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Jawahar Nagar,Jawahar Nagar,74,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Tatibandh,Tatibandh,73,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Amanaka,Amanaka,70,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Changurabhata,Changurabhata,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Deopuri,Deopuri,44,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Kota,Kota,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Lakhe Nagar,Lakhe Nagar,35,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Bhatagaon,Bhatagaon,34,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Mathpurena,Mathpurena,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Govind Nagar,Govind Nagar,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Bhanpuri,Bhanpuri,27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Shrinagar,Shrinagar,27,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Tikrapara,Tikrapara,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Boriyakhurd,Boriyakhurd,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Patel Para,Patel Para,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Raipur,Gogaon,Gogaon,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharamshala,Mcleodganj,Mcleodganj,112,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharamshala,Chilgari,Chilgari,84,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharamshala,Ram Nagar,Ram Nagar,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharamshala,Shyam Nagar,Shyam Nagar,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharamshala,Gamru,Gamru,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Dharamshala,Loharkadi,Loharkadi,7,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manali,Aleo,Aleo,106,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manali,Old Manali,Old Manali,101,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manali,Kullu,Kullu,81,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manali,Tibetan Colony,Tibetan Colony,60,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Gandhi Nagar,Gandhi Nagar,105,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Channi Himmat,Channi Himmat,100,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Trikuta Nagar,Trikuta Nagar,86,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Rehari Colony,Rehari Colony,80,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Old Heritage City,Old Heritage City,78,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Shiv Nagar,Shiv Nagar,59,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Marble Market Area,Marble Market Area,56,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Transport Nagar,Transport Nagar,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Shastri Nagar,Shastri Nagar,49,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Barnai,Barnai,48,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Resham Ghar Colony,Resham Ghar Colony,47,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Nanak Nagar,Nanak Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Sidco Complex,Sidco Complex,36,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Hari Market,Hari Market,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Patoli,Patoli,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Preet Nagar,Preet Nagar,26,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Raghunath Bazaar,Raghunath Bazaar,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Katra,Katra,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Lal Kuan,Lal Kuan,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Karan Nagar,Karan Nagar,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jammu,Maheshpura,Maheshpura,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Shastri Nagar,Shastri Nagar,200,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Adarsh Nagar,Adarsh Nagar,149,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Model Town,Model Town,125,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Urban Estate,Urban Estate,106,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Gt Road,Gt Road,94,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Rama Mandi,Rama Mandi,86,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Ppr Market,Ppr Market,60,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Jalandhar Cantt,Jalandhar Cantt,51,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Model House,Model House,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Maqsudan,Maqsudan,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Nakodar Road,Nakodar Road,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Transport Nagar,Transport Nagar,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jalandhar,Katarpur,Katarpur,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Tapovan,Tapovan,185,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Manvendera Nagar,Manvendera Nagar,114,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Swarg Ashram,Swarg Ashram,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Idpl Colony,Idpl Colony,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Dhalwala,Dhalwala,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Labor Colony,Labor Colony,16,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Shyampur,Shyampur,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Rishikesh,Gumaniwala,Gumaniwala,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mussoorie,The Mall Road,The Mall Road,115,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mussoorie,Landour,Landour,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mussoorie,Library Road,Library Road,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mussoorie,Kempty Fall Road,Kempty Fall Road,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Mussoorie,Barlow Ganj,Barlow Ganj,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Pal Bhichala,Pal Bhichala,166,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Ana Sagar Lake,Ana Sagar Lake,160,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Kotra,Kotra,88,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Panchsheel Nagar,Panchsheel Nagar,78,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Railway Quarters,Railway Quarters,55,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Police Lines,Police Lines,44,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Gaddi Malian,Gaddi Malian,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Ram Ganj,Ram Ganj,34,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Dhola Bhata Colony,Dhola Bhata Colony,22,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Kundan Nagar,Kundan Nagar,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Adarsh Nagar,Adarsh Nagar,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Ajmer,Hathi Khera,Hathi Khera,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Talwandi,Talwandi,265,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Ladpura,Ladpura,137,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Chawani,Chawani,119,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Indraprastha Industrial Area,Indraprastha Industrial Area,78,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Rangbari,Rangbari,72,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Dhanmandi,Dhanmandi,71,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Civil Lines,Civil Lines,64,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Kota Industrial Area,Kota Industrial Area,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Rk Puram - E,Rk Puram - E,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Dadabari,Dadabari,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kota,Rps Colony,Rps Colony,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Sardarpura,Sardarpura,249,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Chopasni Housing Board,Chopasni Housing Board,186,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Ratanada,Ratanada,156,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Paota,Paota,154,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Basni,Basni,151,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Shastri Nagar,Shastri Nagar,130,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Rawaton Ka Bass,Rawaton Ka Bass,75,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Air Force Area,Air Force Area,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Mandore,Mandore,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Pal Gaon,Pal Gaon,51,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Station Road,Station Road,41,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Kabir Nagar,Kabir Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Cantt Area,Cantt Area,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,1St Pulia,1St Pulia,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Sangriya,Sangriya,28,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Maderana Colony,Maderana Colony,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Rawat Nagar,Rawat Nagar,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Bjs Colony,Bjs Colony,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Bhadu Market,Bhadu Market,17,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Prem Nagar,Prem Nagar,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Bhagat Ki Kothi,Bhagat Ki Kothi,13,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Jodhpur,Soor Sagar,Soor Sagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Labbipet,Labbipet,234,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Auto Nagar,Auto Nagar,136,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Gurunanak Colony,Gurunanak Colony,114,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Governorpet,Governorpet,107,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Poranki,Poranki,84,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Gollapudi,Gollapudi,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Islampet,Islampet,65,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Mangalagiri,Mangalagiri,60,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Tadepalli,Tadepalli,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Gandhi Nagar,Gandhi Nagar,39,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Gunadala,Gunadala,32,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Christurajupuram,Christurajupuram,31,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Ramavarappadu,Ramavarappadu,25,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Krishna Lanka,Krishna Lanka,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Gannavaram,Gannavaram,23,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Machavaram,Machavaram,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Pnt Colony,Pnt Colony,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Enikepadu,Enikepadu,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Vijayawada,Payakapuram,Payakapuram,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Vidyaratna Nagar,Vidyaratna Nagar,81,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Eshwar Nagar,Eshwar Nagar,77,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Maruthi Veethika,Maruthi Veethika,38,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Tiger Circle,Tiger Circle,24,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Brahmagiri,Brahmagiri,19,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Kunjibettu,Kunjibettu,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Kinnimulki,Kinnimulki,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Shivalli,Shivalli,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Kidiyoor,Kidiyoor,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Nittur,Nittur,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Saralebettu,Saralebettu,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Dasharath Nagar,Dasharath Nagar,8,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Pandubettu,Pandubettu,6,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Manipal,Doddanagudde,Doddanagudde,5,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Poothole,Poothole,170,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Kizhakkumpattukara,Kizhakkumpattukara,87,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Chalakudy,Chalakudy,68,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Guruvayur,Guruvayur,63,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Ayyanthole,Ayyanthole,52,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Puzhakkal,Puzhakkal,50,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Peringavu,Peringavu,45,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Irinjalakuda,Irinjalakuda,42,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Mannuthy,Mannuthy,30,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Ollur,Ollur,21,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Koorkencherry,Koorkencherry,20,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Thrissur,Kuriachira,Kuriachira,18,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Anantha Narayanapuram,Anantha Narayanapuram,47,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Thathampally,Thathampally,33,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Pazhaveedu,Pazhaveedu,15,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Kommady,Kommady,14,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Punnapra,Punnapra,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Kanjiramchira,Kanjiramchira,12,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Alappuzha,Pathirappally,Pathirappally,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Palayam,Palayam,141,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Vellayil,Vellayil,112,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Kuttichira,Kuttichira,88,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Ummalathoor,Ummalathoor,70,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Malaparamba,Malaparamba,56,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Bilathikkulam,Bilathikkulam,46,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Puthiyangadi,Puthiyangadi,11,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Arrakinar,Arrakinar,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Thiruvannur,Thiruvannur,10,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Kozhikode,Moozhikkal,Moozhikkal,9,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Kk Nagar,Kk Nagar,224,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Periyar,Periyar,171,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Ss Colony,Ss Colony,130,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Viswanathapuram,Viswanathapuram,123,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Sathamangalam,Sathamangalam,104,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Iyer Bungalow,Iyer Bungalow,85,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Arrapalayam,Arrapalayam,75,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Koodal Nagar,Koodal Nagar,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26
+India,Madurai,Othakadai,Othakadai,43,Week 12-2023,2023-03-20,2023-03-20 10:58:26

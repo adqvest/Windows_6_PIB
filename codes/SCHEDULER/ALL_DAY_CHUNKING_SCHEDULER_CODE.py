@@ -1,0 +1,88 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+#*** All Packages
+import sqlalchemy
+import pandas as pd
+import os
+import calendar
+import datetime as datetime
+from pytz import timezone
+import numpy as np
+import sys
+import time
+#from subprocess import call
+from subprocess import run
+from subprocess import Popen
+import warnings
+warnings.filterwarnings('ignore')
+sys.path.insert(0, 'C:/Users/Administrator/AdQvestDir/Adqvest_Function')
+import adqvest_db
+import JobLogNew as log
+
+
+# In[ ]:
+
+
+#**** Credential Directory ****
+engine     = adqvest_db.db_conn()
+
+#****   Date Time *****
+india_time = timezone('Asia/Kolkata')
+today      = datetime.datetime.now(india_time)
+days       = datetime.timedelta(1)
+yesterday = today - days
+
+
+# In[ ]:
+
+
+
+scheduler = 'ALL_DAY_CHUNKING_WINDOWS_SERVER_2_SCHEDULER'
+folder_path = "C:/Users/Administrator/AdQvestDir/codes/ALL_DAY_CHUNKING_WINDOWS_SERVER_2_SCHEDULER/"
+sys.path.insert(1, folder_path)
+all_files = os.listdir(folder_path)
+all_files_without_extension = [file for file in all_files if(file.lower().endswith('.py'))]
+all_files_without_extension = [file.replace('.py','') for file in all_files_without_extension]
+print(all_files_without_extension)
+all_files_without_extension.sort()
+log.jobs_entry(all_files_without_extension, scheduler)
+
+all_files.sort()
+# for file in all_files:
+#     try:
+#         if(file.lower().endswith('.py')):
+#             try:
+#                 new_file = file.replace('.py','')
+#                 mod = __import__(new_file)
+#                 mod.run_program(py_file_name=new_file)
+#             except:
+#                 continue
+
+#         elif(file.lower().endswith('.r')):
+#             try:
+#                 run(["Rscript", folder_path + file])
+#             except:
+#                 continue
+#     except:
+#         continue
+for file in all_files:
+    try:
+        if(file.lower().endswith('.py')):
+            try:
+                # Special case: this script needs subprocess for ProcessPoolExecutor
+                if 'A001_SERVICE_CHUNKING_CORPUS_DATA' in file:
+                    print(f"Running via subprocess: {file}")
+                    new_file = file.replace('.py','')
+                    run(["python", folder_path + file, new_file, scheduler, "Adqvest_Bot"], check=True)
+                else:
+                    new_file = file.replace('.py','')
+                    mod = __import__(new_file)
+                    mod.run_program(py_file_name=new_file)
+            except:
+                continue
+    except:
+        continue

@@ -1,0 +1,7 @@
+Env Detail
+Host ec2-3-109-104-45.ap-south-1.compute.amazonaws.com
+Port 9000
+DB_Name AdqvestDB
+User_Name default
+Password_String Cli@dbaDb378
+
