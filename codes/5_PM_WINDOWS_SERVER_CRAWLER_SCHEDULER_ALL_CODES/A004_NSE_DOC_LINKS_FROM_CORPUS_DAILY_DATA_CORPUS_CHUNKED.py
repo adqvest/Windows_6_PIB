@@ -33,7 +33,7 @@ engine = adqvest_db.db_conn()
 connection = engine.connect()
 
 from clickhouse_driver import Client
-host = '172.31.67.17'
+host = 'ip-172-31-67-17.ap-south-1.compute.internal'
 user_name = 'default'
 password_string = 'Clickhouse@2025'
 db_name = 'AdqvestDB'
